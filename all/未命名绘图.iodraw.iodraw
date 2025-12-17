@@ -291,12 +291,6 @@
         <mxCell id="cbshawen2H77iWWxdQK4-109" value="结果E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="490" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-110" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-109">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="610" as="sourcePoint" />
-            <mxPoint x="638" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
