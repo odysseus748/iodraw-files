@@ -288,20 +288,23 @@
             <mxPoint x="640" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-109" target="cbshawen2H77iWWxdQK4-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-109" value="结果E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="490" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-111" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="619.37" y="530" width="36.25" height="200" as="geometry" />
+          <mxGeometry x="624.38" y="550" width="36.25" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-112" value="可解释权重分布与TQI分位阈值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-117" value="部署TQI动态评价引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-119" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="569.99" y="540" width="135" height="70" as="geometry" />
+          <mxGeometry x="575" y="560" width="135" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
