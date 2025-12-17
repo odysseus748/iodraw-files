@@ -237,7 +237,7 @@
             <mxPoint x="625" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-91" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="cbshawen2H77iWWxdQK4-91" value="基础层&lt;div&gt;初设静态权重&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
