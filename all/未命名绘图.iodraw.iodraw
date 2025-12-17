@@ -198,8 +198,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-71" target="cbshawen2H77iWWxdQK4-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-71" value="特征工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-72" target="cbshawen2H77iWWxdQK4-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-72" value="构建N维向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
