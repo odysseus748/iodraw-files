@@ -198,8 +198,8 @@
         <mxCell id="cbshawen2H77iWWxdQK4-71" value="特征工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="cbshawen2H77iWWxdQK4-72" value="构建N维向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
