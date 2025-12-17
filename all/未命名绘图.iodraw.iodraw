@@ -10,11 +10,8 @@
         <mxCell id="cbshawen2H77iWWxdQK4-4" value="轨距" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-7" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-8" value="左高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-9" value="右高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="40" width="120" height="60" as="geometry" />
@@ -36,6 +33,9 @@
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-16" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-17" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
