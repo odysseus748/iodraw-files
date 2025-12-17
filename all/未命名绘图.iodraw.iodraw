@@ -297,6 +297,9 @@
         <mxCell id="cbshawen2H77iWWxdQK4-111" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="624.38" y="550" width="36.25" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-112" target="cbshawen2H77iWWxdQK4-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-112" value="可解释权重分布与TQI分位阈值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="670" width="120" height="60" as="geometry" />
         </mxCell>
@@ -304,7 +307,7 @@
           <mxGeometry x="680" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-119" value="小样本微调/时序对比学习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="560" width="135" height="70" as="geometry" />
+          <mxGeometry x="555.01" y="560" width="175" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
