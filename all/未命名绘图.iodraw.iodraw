@@ -238,10 +238,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-91" value="基础层&lt;div&gt;初设静态权重&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="120" width="106" height="52" as="geometry" />
+          <mxGeometry x="575" y="120" width="125" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-92" value="约束层&lt;div&gt;确保多病害轨段值&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="214" width="106" height="52" as="geometry" />
+          <mxGeometry x="575" y="214" width="125" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
