@@ -213,15 +213,6 @@
         <mxCell id="cbshawen2H77iWWxdQK4-74" value="TQI核心评价公式体系" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="400" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="440" as="sourcePoint" />
-            <mxPoint x="560" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
