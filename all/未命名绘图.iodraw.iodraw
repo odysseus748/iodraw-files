@@ -19,7 +19,7 @@
         <mxCell id="cbshawen2H77iWWxdQK4-14" value="左轨向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-16" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbshawen2H77iWWxdQK4-16" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-17" value="左高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
