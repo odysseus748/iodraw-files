@@ -8,7 +8,7 @@
           <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-4" value="轨距" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="60" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-5" value="左轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-9" value="右高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-10" value="三角坑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
