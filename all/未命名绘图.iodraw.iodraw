@@ -244,7 +244,7 @@
           <mxGeometry x="575" y="214" width="125" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-93" value="约束层&lt;div&gt;确保多病害轨段值&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="350" width="125" height="52" as="geometry" />
+          <mxGeometry x="580" y="308" width="125" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
