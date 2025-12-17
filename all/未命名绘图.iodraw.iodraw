@@ -309,8 +309,8 @@
         <mxCell id="cbshawen2H77iWWxdQK4-119" value="小样本微调/时序对比学习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555.01" y="560" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="50" width="150" height="500" as="geometry" />
+        <mxCell id="cbshawen2H77iWWxdQK4-122" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="170" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
