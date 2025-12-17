@@ -216,7 +216,7 @@
         <mxCell id="cbshawen2H77iWWxdQK4-72" value="构建N维向量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-74" value="TQI核心评价公式体系" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cbshawen2H77iWWxdQK4-74" value="TQI核心评价公式体系" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370" y="400" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -243,7 +243,7 @@
             <mxPoint x="625" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-91" value="基础层&lt;div&gt;初设静态权重&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cbshawen2H77iWWxdQK4-91" value="基础层&lt;div&gt;初设静态权重&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="575" y="120" width="125" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-92" value="约束层&lt;div&gt;确保多病害轨段值&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;" vertex="1" parent="1">
