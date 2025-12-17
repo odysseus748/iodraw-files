@@ -294,7 +294,7 @@
         <mxCell id="cbshawen2H77iWWxdQK4-111" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="619.37" y="460" width="36.25" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-112" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbshawen2H77iWWxdQK4-112" value="可解释权重分布与TQI分位阈值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-116" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -302,6 +302,9 @@
             <mxPoint x="636.99" y="560" as="sourcePoint" />
             <mxPoint x="636.99" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
