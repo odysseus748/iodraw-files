@@ -13,6 +13,9 @@
         <mxCell id="cbshawen2H77iWWxdQK4-14" value="左轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="150" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-16" target="cbshawen2H77iWWxdQK4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-16" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="80" height="40" as="geometry" />
         </mxCell>
