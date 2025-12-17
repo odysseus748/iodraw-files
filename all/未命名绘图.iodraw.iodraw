@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cbshawen2H77iWWxdQK4-1" value="多维轨道检测数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-4" value="轨距" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="80" height="40" as="geometry" />
