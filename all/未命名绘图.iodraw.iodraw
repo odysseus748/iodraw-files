@@ -10,16 +10,8 @@
         <mxCell id="cbshawen2H77iWWxdQK4-4" value="轨距" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-5" value="左轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="60" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-7" value="右轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-8" value="左高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
@@ -40,7 +32,7 @@
           <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-14" value="左轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="60" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
