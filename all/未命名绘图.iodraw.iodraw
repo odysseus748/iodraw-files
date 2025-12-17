@@ -11,10 +11,10 @@
           <mxGeometry x="30" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-10" value="三角坑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-11" value="水平" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-12" value="车体横向加速度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-19" value="右高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-20" value="右高低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
