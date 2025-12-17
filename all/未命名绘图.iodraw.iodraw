@@ -31,6 +31,9 @@
         <mxCell id="cbshawen2H77iWWxdQK4-12" value="车体横向加速度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-13" value="车体垂向加速度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
