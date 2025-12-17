@@ -21,6 +21,11 @@
         <mxCell id="cbshawen2H77iWWxdQK4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="140" />
+              <mxPoint x="130" y="220" />
+              <mxPoint x="131" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-14" value="左轨向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
