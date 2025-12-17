@@ -288,7 +288,7 @@
             <mxPoint x="640" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbshawen2H77iWWxdQK4-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbshawen2H77iWWxdQK4-109" value="结果E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="490" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
