@@ -243,6 +243,9 @@
         <mxCell id="cbshawen2H77iWWxdQK4-92" value="约束层&lt;div&gt;确保多病害轨段值&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="214" width="125" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-93" target="cbshawen2H77iWWxdQK4-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-93" value="自适应层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;container=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="308" width="125" height="52" as="geometry" />
         </mxCell>
@@ -253,7 +256,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=72.5;exitDy=52;exitPerimeter=0;entryX=0.584;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-92" target="cbshawen2H77iWWxdQK4-93">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="266" />
+              <mxPoint x="650" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=72.5;exitDy=52;exitPerimeter=0;entryX=0.584;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cbshawen2H77iWWxdQK4-93" target="cbshawen2H77iWWxdQK4-94">
           <mxGeometry relative="1" as="geometry" />
