@@ -35,7 +35,10 @@
           <mxGeometry x="30" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-21" value="三角坑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbshawen2H77iWWxdQK4-22" value="三角坑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
