@@ -8,7 +8,7 @@
           <mxGeometry x="350" y="50" width="470" height="690" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-122" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="320" height="470" as="geometry" />
+          <mxGeometry y="50" width="340" height="470" as="geometry" />
         </mxCell>
         <mxCell id="cbshawen2H77iWWxdQK4-1" value="多维轨道检测数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="100" height="60" as="geometry" />
