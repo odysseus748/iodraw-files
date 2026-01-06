@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-2" value="实验找到冻胀条件下&lt;span style=&quot;font-size: 10.5pt; font-family: 等线;&quot;&gt;轨道板裂缝敏感区域&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-3" value="对敏感区进行&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;局部增强&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
@@ -19,10 +19,10 @@
             <mxPoint x="210" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZHES7KocYiqUfWtG1Nz6-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZHES7KocYiqUfWtG1Nz6-3">
+        <mxCell id="ZHES7KocYiqUfWtG1Nz6-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="239.5" as="sourcePoint" />
-            <mxPoint x="430" y="239.5" as="targetPoint" />
+            <mxPoint x="330" y="239.5" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
