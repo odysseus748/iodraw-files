@@ -10,6 +10,9 @@
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-2" value="实验找到薄弱环节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZHES7KocYiqUfWtG1Nz6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
