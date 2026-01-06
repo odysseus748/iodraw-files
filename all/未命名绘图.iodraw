@@ -25,12 +25,6 @@
             <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZHES7KocYiqUfWtG1Nz6-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="239.5" as="sourcePoint" />
-            <mxPoint x="560" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-23" value="Horizontal Tree Layout" style="swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="310" height="160" as="geometry" />
         </mxCell>
@@ -45,14 +39,14 @@
         </mxCell>
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="270" as="sourcePoint" />
-            <mxPoint x="670" y="310" as="targetPoint" />
+            <mxPoint x="510" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="270" as="sourcePoint" />
-            <mxPoint x="670" y="230" as="targetPoint" />
+            <mxPoint x="510" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
