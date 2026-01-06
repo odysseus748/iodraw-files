@@ -25,18 +25,6 @@
             <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZHES7KocYiqUfWtG1Nz6-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="239.5" as="sourcePoint" />
-            <mxPoint x="570" y="239.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZHES7KocYiqUfWtG1Nz6-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="470" as="sourcePoint" />
-            <mxPoint x="452.72727272727275" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZHES7KocYiqUfWtG1Nz6-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="50" height="100" as="geometry" />
         </mxCell>
