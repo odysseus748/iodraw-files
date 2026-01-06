@@ -25,8 +25,14 @@
             <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZHES7KocYiqUfWtG1Nz6-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=15;" vertex="1" parent="1">
+        <mxCell id="ZHES7KocYiqUfWtG1Nz6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHES7KocYiqUfWtG1Nz6-13" target="ZHES7KocYiqUfWtG1Nz6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHES7KocYiqUfWtG1Nz6-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="190" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHES7KocYiqUfWtG1Nz6-14" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="655" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
