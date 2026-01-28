@@ -262,8 +262,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-140" value="线-站协同多目标&lt;div&gt;优化模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="216.25" y="890" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-141" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="246.25" y="940" width="70" height="25" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-141" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="246.25" y="950" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-142" value="线-站协同&lt;div&gt;客运量/建设成本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="231.25" y="980" width="95" height="40" as="geometry" />
