@@ -14,7 +14,7 @@
           <mxGeometry x="100" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-5" value="相关理论研究及文献分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="160" height="90" as="geometry" />
+          <mxGeometry x="200" y="130" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-7" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;研究基础平台搭建&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="60" height="80" as="geometry" />
