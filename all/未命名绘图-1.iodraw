@@ -214,8 +214,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-123" value="前向感知解码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="750" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-126" value="城市综合信息模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="570" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
