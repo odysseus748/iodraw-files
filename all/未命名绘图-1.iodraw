@@ -296,7 +296,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-155" value="基于Transformer的强化学习优化方法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
-          <mxGeometry x="360" y="880" width="236.25" height="60" as="geometry" />
+          <mxGeometry x="360" y="870" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-162" target="F2ToOnQ4vfdoQ9_-vCdl-163">
           <mxGeometry relative="1" as="geometry" />
