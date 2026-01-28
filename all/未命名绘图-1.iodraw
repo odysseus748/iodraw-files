@@ -343,8 +343,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-172" value="线-站协同精细化优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="875" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-173" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1200" width="120" height="60" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-173" value="联合建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
