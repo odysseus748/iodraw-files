@@ -109,8 +109,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-67" value="起讫端特征学习" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="325" width="130" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-69" value="图自注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="505" width="100" height="30" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;图自注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-70" value="门控机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="605" width="120" height="60" as="geometry" />
