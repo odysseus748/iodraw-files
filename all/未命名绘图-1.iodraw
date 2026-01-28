@@ -217,6 +217,9 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-123" value="前向感知解码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="785" width="160" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="220" y="525" width="230" height="345" as="geometry" />
+        </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-126" target="F2ToOnQ4vfdoQ9_-vCdl-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -243,9 +246,6 @@
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-134" value="上层：指针网络驱动的站点决策网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="840" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="220" y="525" width="230" height="345" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
