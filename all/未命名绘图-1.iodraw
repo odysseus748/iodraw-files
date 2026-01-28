@@ -208,13 +208,13 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-121" target="F2ToOnQ4vfdoQ9_-vCdl-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-121" value="输入层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-121" value="输入层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-122" target="F2ToOnQ4vfdoQ9_-vCdl-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-122" value="多目标环境编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-122" value="多目标环境编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="600" y="720" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-123" value="前向感知解码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
