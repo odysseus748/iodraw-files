@@ -7,9 +7,6 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="580" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-2" value="轨道交通网络拓扑与客流演变机理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="300" width="90" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-3" value="面向结构性瓶颈缓解的网络扩展优化方法" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="505" width="80" height="80" as="geometry" />
         </mxCell>
@@ -23,7 +20,7 @@
           <mxGeometry x="210" y="130" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-8" value="理论体系平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="225" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="225" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-10" target="F2ToOnQ4vfdoQ9_-vCdl-12">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +47,7 @@
           <mxGeometry x="140" y="120" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-28" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;轨道交通网络拓扑与客流演变机理&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="270" width="60" height="200" as="geometry" />
+          <mxGeometry x="140" y="270" width="60" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
