@@ -157,8 +157,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-104" value="轨道交通网络拓扑与客流时空演化规律" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-106" value="协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="470" width="120" height="40" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-106" value="轨道交通客流预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="470" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
