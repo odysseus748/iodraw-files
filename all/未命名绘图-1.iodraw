@@ -347,16 +347,16 @@
           <mxGeometry x="660" y="942.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-174" value="闭环表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1020" width="104.5" height="60" as="geometry" />
+          <mxGeometry x="655.5" y="1060" width="104.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-175" value="CMA求解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-176" value="站点微调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.75" y="1390" width="60" height="20" as="geometry" />
+          <mxGeometry x="640" y="1020" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-177" value="线路生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.75" y="1420" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="1020" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
