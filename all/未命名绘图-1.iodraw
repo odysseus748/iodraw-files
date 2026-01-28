@@ -58,7 +58,7 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-33" value="自适应吸引端辐射" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-36" value="自适应吸引端辐射" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-36" value="机器学习回归" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="440" width="120" height="10" as="geometry" />
         </mxCell>
       </root>
