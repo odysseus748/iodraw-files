@@ -148,8 +148,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-85" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="703" y="350" width="23" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-88" value="高阶特征交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="515" width="120" height="60" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-88" value="高阶特征&lt;div&gt;交互&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
