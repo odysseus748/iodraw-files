@@ -16,6 +16,9 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-4" value="面向网络扩展的线路与站点协同优化方法" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
