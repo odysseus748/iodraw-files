@@ -83,7 +83,7 @@
           <mxGeometry x="380" y="325" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-50" value="城市环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="530" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
