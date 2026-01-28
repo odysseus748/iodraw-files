@@ -181,7 +181,7 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-113" value="加权客流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="680" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-114" value="加权客流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-114" value="ORC&lt;div&gt;曲率&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="730" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
