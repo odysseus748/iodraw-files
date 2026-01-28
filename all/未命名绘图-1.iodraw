@@ -136,7 +136,7 @@
             <mxPoint x="620" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="F2ToOnQ4vfdoQ9_-vCdl-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="390" as="sourcePoint" />
             <mxPoint x="660" y="340" as="targetPoint" />
@@ -144,6 +144,9 @@
               <mxPoint x="610" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-85" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="565" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
