@@ -25,6 +25,9 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-8" value="理论体系平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="225" y="220" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-10" target="F2ToOnQ4vfdoQ9_-vCdl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-10" value="&lt;div style=&quot;&quot;&gt;多年轨道AFC&lt;/div&gt;&lt;div style=&quot;&quot;&gt;刷卡数据&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="150" height="60" as="geometry" />
         </mxCell>
