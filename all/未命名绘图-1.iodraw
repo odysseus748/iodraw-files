@@ -311,10 +311,10 @@
           <mxGeometry x="550" y="960" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-161" value="基于Transformer的线路决策网络" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="987.5" width="202.5" height="25" as="geometry" />
+          <mxGeometry x="392.5" y="987.5" width="202.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-163" value="强化学习SAC训练框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="1060" width="267.5" height="60" as="geometry" />
+          <mxGeometry x="365" y="1060" width="267.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
