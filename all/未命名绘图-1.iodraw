@@ -215,13 +215,16 @@
           <mxGeometry x="600" y="785" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-126" value="城市综合&lt;div&gt;信息模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="600" width="80" height="60" as="geometry" />
+          <mxGeometry x="470" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-127" value="轨道交通&lt;div&gt;网络图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="680" width="80" height="65" as="geometry" />
+          <mxGeometry x="470" y="680" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-128" target="F2ToOnQ4vfdoQ9_-vCdl-129">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-128" value="客流加权图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="780" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-129" value="候选站点地理图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="590" width="120" height="40" as="geometry" />
