@@ -25,8 +25,14 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-8" value="理论体系平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="225" y="220" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;相关理论研究&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;及文献分析&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="150" height="60" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-10" value="&lt;div style=&quot;&quot;&gt;多年轨道AFC&lt;/div&gt;&lt;div style=&quot;&quot;&gt;刷卡数据&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-11" value="&lt;div style=&quot;&quot;&gt;北京市轨道线&lt;/div&gt;&lt;div style=&quot;&quot;&gt;网多源数据&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-12" value="理论体系平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
