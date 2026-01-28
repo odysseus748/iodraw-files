@@ -238,7 +238,7 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-129" value="候选站点地理图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-134" value="上层：指针网络驱动的站点决策网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="850" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
