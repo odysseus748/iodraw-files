@@ -145,8 +145,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-85" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="565" width="50" height="100" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-85" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="395" y="565" width="50" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
