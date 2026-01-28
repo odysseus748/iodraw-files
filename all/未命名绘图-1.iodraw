@@ -220,8 +220,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-127" value="轨道交通网络图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-128" value="轨道交通网络图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="650" width="120" height="40" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-128" value="客流加权图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="702.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
