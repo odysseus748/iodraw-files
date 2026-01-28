@@ -214,10 +214,10 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-122" target="F2ToOnQ4vfdoQ9_-vCdl-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-122" value="多目标环境编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-122" value="多目标环境编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="600" y="720" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-123" value="前向感知解码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-123" value="前向感知解码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="600" y="785" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-126" target="F2ToOnQ4vfdoQ9_-vCdl-129">
@@ -244,7 +244,7 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-129" value="候选站点地理图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="620" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-134" value="上层：指针网络驱动的站点决策网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-134" value="上层：指针网络驱动的站点决策网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="470" y="840" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-110" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;线-站协同目标优化方法&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
