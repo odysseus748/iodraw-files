@@ -175,8 +175,8 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-111" value="&lt;b&gt;决策变量&lt;/b&gt;&lt;div&gt;线路几何/站点位置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="580" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-112" value="&lt;b&gt;目标函数&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="640" width="140" height="40" as="geometry" />
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-112" value="&lt;b&gt;目标函数&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
