@@ -266,13 +266,13 @@
           <mxGeometry x="220" y="980" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-145" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1110" width="100" height="120" as="geometry" />
+          <mxGeometry x="205" y="1040" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-146" value="决策变量" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="1040" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-147" value="站点/线路交点&lt;div&gt;坐标&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1065" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-148" value="线-站协同&lt;div&gt;建设成本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="270" y="1320" width="100" height="40" as="geometry" />
