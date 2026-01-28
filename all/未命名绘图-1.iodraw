@@ -73,11 +73,14 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-37" value="影响指标体系" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="370" height="170" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-46" value="多任务级联深度学习轨道交通客流预测模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="370" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="325" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-48" value="长期图构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="325" width="120" height="25" as="geometry" />
@@ -87,9 +90,6 @@
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-51" value="网络结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="325" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-52" value="历史客流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="80" height="20" as="geometry" />
