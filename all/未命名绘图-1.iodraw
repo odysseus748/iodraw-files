@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="4pStCGe5wBEUR36Pyj4Y">
-    <mxGraphModel dx="1173" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="580" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-4" value="面向网络扩展的线路与站点协同优化方法" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2ToOnQ4vfdoQ9_-vCdl-5" target="F2ToOnQ4vfdoQ9_-vCdl-8">
           <mxGeometry relative="1" as="geometry" />
@@ -355,7 +352,7 @@
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-180" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="646.88" y="1010" width="123.12" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-174" value="闭环表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-174" value="闭环表征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="656.19" y="1070" width="104.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F2ToOnQ4vfdoQ9_-vCdl-175" value="CMA求解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
