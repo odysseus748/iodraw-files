@@ -304,7 +304,7 @@
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-39" value="(1)轨道交通网络扩展优化模型&lt;div&gt;(2)基于全局感知的网络扩展优化方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="350" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H1HzgbtoaPVzs5MMiM0f-40" value="1站点固定下的线路平纵断面优化方法2站点连续微调的线一站协同优化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-40" value="(1)站点固定下的线路平纵断面优化方法2站点连续微调的线一站协同优化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="430" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
