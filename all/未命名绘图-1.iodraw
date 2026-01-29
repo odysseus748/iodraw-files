@@ -242,7 +242,7 @@
           <mxGeometry x="330" y="1576" width="130" height="134" as="geometry" />
         </mxCell>
         <mxCell id="E4oiNgm5K7RKITtEuJty-70" value="关键任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1734" width="120" height="156" as="geometry" />
+          <mxGeometry x="330" y="1710" width="130" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
