@@ -178,10 +178,10 @@
         <mxCell id="E4oiNgm5K7RKITtEuJty-54" value="① 自适应站点多层级影响域指标体系构建&#xa;② 深度学习多任务客流预测模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="495" y="1785" width="252" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-55" value="① 轨道交通网络扩展优化模型&#xa;② 基于全局感知的网络扩展优化方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="E4oiNgm5K7RKITtEuJty-55" value="① 轨道交通网络扩展优化模型&#xa;② 基于全局感知的网络扩展优化方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="797" y="1794" width="252" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-56" value="① 站点固定下的线路平纵断面优化方法&#xa;② 站点连续微调的线—站协同优化方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="E4oiNgm5K7RKITtEuJty-56" value="① 站点固定下的线路平纵断面优化方法&#xa;② 站点连续微调的线—站协同优化方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1099" y="1785" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="E4oiNgm5K7RKITtEuJty-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E4oiNgm5K7RKITtEuJty-48" target="E4oiNgm5K7RKITtEuJty-49">
