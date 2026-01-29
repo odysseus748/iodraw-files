@@ -175,7 +175,7 @@
         <mxCell id="E4oiNgm5K7RKITtEuJty-53" value="(3) 面向网络结构扩展的线路与站点协同优化方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1099" y="1601" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-54" value="① 自适应站点多层级影响域指标体系构建&#xa;② 深度学习多任务客流预测模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="E4oiNgm5K7RKITtEuJty-54" value="① 自适应站点多层级影响域指标体系构建&#xa;② 深度学习多任务客流预测模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="495" y="1785" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="E4oiNgm5K7RKITtEuJty-55" value="① 轨道交通网络扩展优化模型&#xa;② 基于全局感知的网络扩展优化方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
