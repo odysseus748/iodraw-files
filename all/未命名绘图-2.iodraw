@@ -283,8 +283,8 @@
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-31" value="(2)结构性瓶颈缓解导向的网络扩展优化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H1HzgbtoaPVzs5MMiM0f-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-32" value="(3)面向网络结构扩展的线路与站点协同优化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
