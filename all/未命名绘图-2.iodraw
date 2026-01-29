@@ -283,8 +283,14 @@
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-29" value="线站优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1HzgbtoaPVzs5MMiM0f-30" target="H1HzgbtoaPVzs5MMiM0f-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-30" value="响应轨网结构调整的多任务客流预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1HzgbtoaPVzs5MMiM0f-31" target="H1HzgbtoaPVzs5MMiM0f-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-31" value="结构性瓶颈缓解导向的网络扩展优化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="350" width="120" height="60" as="geometry" />
