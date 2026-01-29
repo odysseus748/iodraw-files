@@ -235,7 +235,7 @@
         <mxCell id="E4oiNgm5K7RKITtEuJty-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1210" width="130" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E4oiNgm5K7RKITtEuJty-68" value="研究问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="102" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
