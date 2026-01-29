@@ -257,10 +257,10 @@
           <mxGeometry x="-430" y="250" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="260" width="120" height="240" as="geometry" />
+          <mxGeometry x="-310" y="250" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="H1HzgbtoaPVzs5MMiM0f-24" value="研究问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="260" width="120" height="20" as="geometry" />
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-24" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="250" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
