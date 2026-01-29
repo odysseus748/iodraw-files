@@ -238,8 +238,8 @@
         <mxCell id="E4oiNgm5K7RKITtEuJty-68" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1210" width="130" height="366" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-69" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1576" width="130" height="200" as="geometry" />
+        <mxCell id="E4oiNgm5K7RKITtEuJty-69" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1576" width="130" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
