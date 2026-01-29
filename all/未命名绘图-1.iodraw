@@ -160,7 +160,7 @@
         <mxCell id="E4oiNgm5K7RKITtEuJty-48" value="客流预测" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="861" y="1255" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-49" value="网络扩展" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="E4oiNgm5K7RKITtEuJty-49" value="网络扩展" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1027" y="1354" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E4oiNgm5K7RKITtEuJty-50" value="线站优化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
