@@ -163,8 +163,8 @@
         <mxCell id="E4oiNgm5K7RKITtEuJty-49" value="网络扩展" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1018" y="1347" width="112" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="E4oiNgm5K7RKITtEuJty-50" value="线站优化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1178" y="1452" width="94" height="49" as="geometry" />
+        <mxCell id="E4oiNgm5K7RKITtEuJty-50" value="线站优化" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1440" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="E4oiNgm5K7RKITtEuJty-51" value="(1) 响应轨网结构调整的多任务客流预测模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="495" y="1601" width="252" height="84" as="geometry" />
