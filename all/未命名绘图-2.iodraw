@@ -268,8 +268,14 @@
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-26" value="关键任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="250" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1HzgbtoaPVzs5MMiM0f-27" target="H1HzgbtoaPVzs5MMiM0f-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-27" value="客流预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1HzgbtoaPVzs5MMiM0f-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H1HzgbtoaPVzs5MMiM0f-28" target="H1HzgbtoaPVzs5MMiM0f-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-28" value="网络扩展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="350" width="120" height="60" as="geometry" />
