@@ -322,11 +322,14 @@
         <mxCell id="1Q6gc2ilf6xCXxzshlWV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1Q6gc2ilf6xCXxzshlWV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Q6gc2ilf6xCXxzshlWV-3" target="1Q6gc2ilf6xCXxzshlWV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Q6gc2ilf6xCXxzshlWV-3" value="客流预测v额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-680" y="835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Q6gc2ilf6xCXxzshlWV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="1Q6gc2ilf6xCXxzshlWV-4" value="gui王翔宇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
