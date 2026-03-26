@@ -349,6 +349,9 @@
         <mxCell id="1Q6gc2ilf6xCXxzshlWV-4" value="gui王翔宇" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-21" target="7BvWiG5SYH02dT8fQA6P-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-21" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;荷载施加与求解过程&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1321" y="150" width="120" height="50" as="geometry" />
         </mxCell>
@@ -373,8 +376,11 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-33" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;验证精度&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1570.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-50" target="7BvWiG5SYH02dT8fQA6P-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-50" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;设置单元&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1342.5" y="227.5" width="75" height="32.5" as="geometry" />
+          <mxGeometry x="1347" y="227.5" width="75" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-53" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;问题定义与几何建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="120" width="99" height="120" as="geometry" />
@@ -413,7 +419,7 @@
           <mxGeometry x="1150" y="360" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-66" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;激活单元&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1343.5" y="287.5" width="75" height="32.5" as="geometry" />
+          <mxGeometry x="1347" y="287.5" width="75" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-67" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;精力分析&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1343.5" y="343.75" width="75" height="32.5" as="geometry" />
