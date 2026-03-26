@@ -406,8 +406,11 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-58" value="材料模型与参数定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="240" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-59" value="应变假设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-59" value="本构模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-60" value="本构模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="250" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
