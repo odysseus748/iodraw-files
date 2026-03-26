@@ -382,8 +382,11 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-29" value="后处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1490" y="80" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-31" target="7BvWiG5SYH02dT8fQA6P-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-31" value="可视化厂变量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1570" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-33" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;验证及解释图像&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1570.5" y="310" width="120" height="60" as="geometry" />
