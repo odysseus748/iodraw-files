@@ -422,7 +422,10 @@
           <mxGeometry x="1347" y="287.5" width="75" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-67" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;精力分析&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1343.5" y="343.75" width="75" height="32.5" as="geometry" />
+          <mxGeometry x="1347" y="343.75" width="75" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.621;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-66" target="7BvWiG5SYH02dT8fQA6P-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
