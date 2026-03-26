@@ -364,6 +364,9 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-20" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;边界与初始条件处理&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1054" y="340" width="124" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-21" target="7BvWiG5SYH02dT8fQA6P-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-21" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;建立并组装方程组&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -394,7 +397,7 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-33" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;验证及解释图像&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1640" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-50" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;施加边界条件与求解&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-50" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;求解方程组&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1321" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
