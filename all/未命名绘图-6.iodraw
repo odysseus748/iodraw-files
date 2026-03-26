@@ -356,7 +356,7 @@
           <mxGeometry x="920" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-19" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;单元特性选择&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1071" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-20" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;建立单元与整体方程&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="310" width="120" height="60" as="geometry" />
@@ -384,6 +384,9 @@
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-33" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;验证及解释图像&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-17" target="7BvWiG5SYH02dT8fQA6P-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
