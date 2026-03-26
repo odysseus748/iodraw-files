@@ -380,7 +380,7 @@
           <mxGeometry x="1320" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-53" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;问题定义与几何建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="120" width="100" height="120" as="geometry" />
+          <mxGeometry x="1050" y="120" width="99" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-54" value="断面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="120" width="130" height="30" as="geometry" />
