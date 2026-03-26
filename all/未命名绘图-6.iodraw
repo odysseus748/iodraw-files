@@ -394,7 +394,7 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-54" value="断面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="120" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-55" value="断面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-55" value="边坡设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="170" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
