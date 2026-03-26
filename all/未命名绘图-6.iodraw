@@ -434,7 +434,7 @@
           <mxGeometry x="1580" y="307.5" width="120" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-74" value="计算假定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="390" width="720" height="40" as="geometry" />
+          <mxGeometry x="1050" y="390" width="720" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
