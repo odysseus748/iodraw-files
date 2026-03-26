@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036.5" y="60" width="339" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="H1HzgbtoaPVzs5MMiM0f-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="80" width="650" height="640" as="geometry" />
         </mxCell>
@@ -348,9 +351,6 @@
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-21" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;施加边界条件与求解&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
