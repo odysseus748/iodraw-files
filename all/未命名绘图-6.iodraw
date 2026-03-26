@@ -334,8 +334,11 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-16" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;问题定义与几何建模&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1146" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-17" value="&#xa;&lt;p style=&quot;white-space: pre-wrap;&quot; dir=&quot;auto&quot;&gt;网格离散化&lt;/p&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-17" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;网格离散化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1146" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
