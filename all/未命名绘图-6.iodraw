@@ -352,9 +352,6 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-17" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;网格离散化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="986" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-18" target="7BvWiG5SYH02dT8fQA6P-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-18" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;材料属性定义&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -362,7 +359,7 @@
           <mxGeometry x="1060" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-20" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;建立单元与整体方程&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="989.5" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="320" width="99.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-21" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;施加边界条件与求解&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1254.5" y="175" width="120" height="60" as="geometry" />
