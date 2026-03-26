@@ -343,6 +343,9 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-19" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;单元特性选择&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1231" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-20" value="&#xa;&lt;p style=&quot;white-space: pre-wrap;&quot; dir=&quot;auto&quot;&gt;建立单元与整体方程&lt;/p&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
