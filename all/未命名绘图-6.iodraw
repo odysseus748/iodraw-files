@@ -385,10 +385,7 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-31" target="7BvWiG5SYH02dT8fQA6P-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BvWiG5SYH02dT8fQA6P-31" target="7BvWiG5SYH02dT8fQA6P-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-31" value="结果可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-31" value="可视化厂变量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1570" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-32" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;计算衍生物理量&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -398,7 +395,7 @@
           <mxGeometry x="1640" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-50" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;求解方程组&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1321" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1320" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
