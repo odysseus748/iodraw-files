@@ -353,7 +353,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-17" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;差分格式选择与方程离散化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1014" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7BvWiG5SYH02dT8fQA6P-20" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;边界与初始条件处理&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1099" y="390" width="124" height="60" as="geometry" />
@@ -412,7 +412,7 @@
         <mxCell id="7BvWiG5SYH02dT8fQA6P-60" value="土层参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="270" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7BvWiG5SYH02dT8fQA6P-61" value="土层参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BvWiG5SYH02dT8fQA6P-61" value="土层分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="300" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
