@@ -335,7 +335,7 @@
           <mxGeometry x="-355" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5u4zgrg90yBzydCjcdOo-2" value="数据准备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-720" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Q6gc2ilf6xCXxzshlWV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="860" width="120" height="60" as="geometry" />
