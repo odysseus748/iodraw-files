@@ -487,7 +487,7 @@
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-8" value="最终时空超图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="505" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v5hWSPNdWxN55GT1H6Ps-9" value="交通分配模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-9" value="交通分配模型&lt;div&gt;logit路径选择&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="689" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-15" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
