@@ -481,6 +481,9 @@
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-7" value="时空综合相似度融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="450" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5hWSPNdWxN55GT1H6Ps-8" target="v5hWSPNdWxN55GT1H6Ps-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-8" value="最终时空超图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="505" width="90" height="40" as="geometry" />
         </mxCell>
@@ -497,7 +500,7 @@
           <mxGeometry x="-240" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-19" value="模型训练与推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="560" width="90" height="40" as="geometry" />
+          <mxGeometry x="-570" y="560" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
