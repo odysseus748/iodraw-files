@@ -334,7 +334,7 @@
         <mxCell id="5u4zgrg90yBzydCjcdOo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="150" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5u4zgrg90yBzydCjcdOo-2" value="数据输入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5u4zgrg90yBzydCjcdOo-2" value="空间特征提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Q6gc2ilf6xCXxzshlWV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
