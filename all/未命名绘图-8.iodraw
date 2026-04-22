@@ -451,6 +451,9 @@
         <mxCell id="ASB-IARiFwoa3Ym3eq2F-2" value="时空特征融合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-560" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASB-IARiFwoa3Ym3eq2F-3" target="v5hWSPNdWxN55GT1H6Ps-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ASB-IARiFwoa3Ym3eq2F-3" value="初始超图构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-560" y="336.25" width="80" height="40" as="geometry" />
         </mxCell>
@@ -466,11 +469,14 @@
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-1" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;历史客流数据采集&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="170" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5hWSPNdWxN55GT1H6Ps-6" target="v5hWSPNdWxN55GT1H6Ps-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-6" value="时序相似度计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-7" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="-560" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-8" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="520" width="80" height="40" as="geometry" />
