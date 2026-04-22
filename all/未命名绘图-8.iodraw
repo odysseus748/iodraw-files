@@ -334,6 +334,9 @@
         <mxCell id="5u4zgrg90yBzydCjcdOo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="150" width="240" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5u4zgrg90yBzydCjcdOo-2" target="ASB-IARiFwoa3Ym3eq2F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5u4zgrg90yBzydCjcdOo-2" value="空间特征提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="223.75" width="80" height="40" as="geometry" />
         </mxCell>
@@ -440,7 +443,7 @@
           <mxGeometry x="-500" y="223.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ASB-IARiFwoa3Ym3eq2F-2" value="时空特征融合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="-560" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ASB-IARiFwoa3Ym3eq2F-3" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="420" width="80" height="40" as="geometry" />
