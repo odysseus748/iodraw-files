@@ -488,7 +488,7 @@
           <mxGeometry x="-570" y="505" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-9" value="交通分配模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="670" width="90" height="40" as="geometry" />
+          <mxGeometry x="-570" y="689" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-15" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="420" width="80" height="40" as="geometry" />
@@ -505,8 +505,8 @@
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5hWSPNdWxN55GT1H6Ps-19" target="v5hWSPNdWxN55GT1H6Ps-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v5hWSPNdWxN55GT1H6Ps-19" value="模型训练与推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="560" width="90" height="40" as="geometry" />
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-19" value="模型训练与推理&lt;div&gt;HGCN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="560" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
