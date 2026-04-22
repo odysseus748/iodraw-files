@@ -475,7 +475,7 @@
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-6" value="时序相似度计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="390" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v5hWSPNdWxN55GT1H6Ps-7" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5hWSPNdWxN55GT1H6Ps-7" value="时空综合相似度融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5hWSPNdWxN55GT1H6Ps-8" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
