@@ -335,7 +335,7 @@
           <mxGeometry x="-680" y="150" width="320" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5u4zgrg90yBzydCjcdOo-2" value="空间特征提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="223.75" width="80" height="40" as="geometry" />
+          <mxGeometry x="-620" y="223.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Q6gc2ilf6xCXxzshlWV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="860" width="120" height="60" as="geometry" />
@@ -437,7 +437,7 @@
           <mxGeometry x="1050" y="390" width="720" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ASB-IARiFwoa3Ym3eq2F-1" value="时间特征提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-630" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="-500" y="223.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ASB-IARiFwoa3Ym3eq2F-2" value="超图构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="360" width="80" height="40" as="geometry" />
