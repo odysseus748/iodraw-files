@@ -253,19 +253,19 @@
           <mxGeometry x="99.99999999999999" y="3135" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-100" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="380" y="3410" width="840" height="330" as="geometry" />
+          <mxGeometry x="360" y="3100" width="840" height="330" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-101" value="h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="395" y="3530" width="110" height="70" as="geometry" />
+          <mxGeometry x="375" y="3220" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-102" value="&lt;b&gt;Topology Attn&lt;/b&gt;&lt;br&gt;neighbors: G_LE adj (static/W)&lt;br&gt;multi-head + inactive mask&lt;br&gt;-&amp;gt; h_topo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="675" y="3450" width="240" height="100" as="geometry" />
+          <mxGeometry x="655" y="3140" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-103" value="&lt;b&gt;Functional Attn&lt;/b&gt;&lt;br&gt;neighbors: top-k cosine on z_func&lt;br&gt;(dynamic) + inactive mask&lt;br&gt;-&amp;gt; h_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="675" y="3580" width="230" height="100" as="geometry" />
+          <mxGeometry x="655" y="3270" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-104" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;concat([h_station;&lt;br&gt;h_topo; h_func])&lt;br&gt;MLP (96-64-32) + LN&lt;br&gt;-&amp;gt; h_ctx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b9b6;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3520" width="120" height="80" as="geometry" />
+          <mxGeometry x="1040" y="3210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-101" target="46HkaiUQZPzAVKPz_1wA-102">
           <mxGeometry relative="1" as="geometry" />
@@ -279,8 +279,8 @@
         <mxCell id="46HkaiUQZPzAVKPz_1wA-108" value="h_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-103" target="46HkaiUQZPzAVKPz_1wA-104">
           <mxGeometry x="0.0892" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="990" y="3630" />
-              <mxPoint x="990" y="3560" />
+              <mxPoint x="970" y="3320" />
+              <mxPoint x="970" y="3250" />
             </Array>
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -288,8 +288,8 @@
         <mxCell id="46HkaiUQZPzAVKPz_1wA-109" value="h_station (skip)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-101" target="46HkaiUQZPzAVKPz_1wA-104">
           <mxGeometry x="0.0108" y="20" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="3710" />
-              <mxPoint x="1120" y="3710" />
+              <mxPoint x="430" y="3400" />
+              <mxPoint x="1100" y="3400" />
             </Array>
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -384,7 +384,7 @@
           <mxGeometry x="890" y="2890" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-138" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;[h_v_time; h_v_space; z_func]&lt;br&gt;Linear-GELU-Linear-LN&lt;br&gt;-&amp;gt; h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9d7a8;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="2890" width="170" height="70" as="geometry" />
+          <mxGeometry x="1120" y="2890" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-139" value="z_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-135" target="46HkaiUQZPzAVKPz_1wA-136">
           <mxGeometry relative="1" as="geometry" />
