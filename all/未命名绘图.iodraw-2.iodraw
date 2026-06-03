@@ -1,9 +1,121 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="6Jrkfm9b0WXhR2dWEZdm">
-    <mxGraphModel dx="989" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Phase3ModelV3" id="6Jrkfm9b0WXhR2dWEZdm">
+    <mxGraphModel dx="2346" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="82Dsms7V7bGpNubbrD2n-1" value="&lt;b&gt;INPUTS&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Functional feat. (POI + pop, 25-d)&lt;br&gt;• G_LE topology graph (per window)&lt;br&gt;• Station ID&lt;br&gt;• Distance feat." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;align=left;spacingLeft=10;verticalAlign=top;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-2" value="&lt;b&gt;CONTRIBUTION 1 — Dual-Path Station Representation with Cross-Epoch Hot-Swap&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=13;spacingTop=8;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="840" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-3" value="&lt;b&gt;m02.5 FunctionalEncoder&lt;/b&gt;&lt;br&gt;25-d → z_func (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-4" value="&lt;b&gt;m01 TemporalEncoder&lt;/b&gt;&lt;br&gt;&lt;br&gt;station_emb (lookup table)&lt;br&gt;for existing stations&lt;br&gt;&lt;br&gt;NewStationEmb (z_func → emb)&lt;br&gt;for new stations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-5" value="&lt;b&gt;h_v_time (32-d)&lt;/b&gt;&lt;br&gt;unified embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="605" y="520" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-6" value="Hot-Swap (Algorithm 1):&lt;br&gt;end of each epoch&lt;br&gt;station_emb[s_new] ← NewStationEmbedder(z_func)&lt;br&gt;(writeback, no gradient)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;fontSize=10;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-7" value="&lt;b&gt;m02 SpatialEncoder (GraphSAGE)&lt;/b&gt;&lt;br&gt;3-layer SAGE on G_LE → h_v_space (32-d, per-station)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="230" y="720" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-8" value="&lt;b&gt;fuse:&lt;/b&gt; [h_v_time; h_v_space; z_func] → 32-d → LayerNorm → &lt;b&gt;h_station&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8e0;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="230" y="815" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-9" value="&lt;b&gt;CONTRIBUTION 2 — Station-Level Dual-Neighborhood Local Attention&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=13;spacingTop=8;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="960" width="840" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-10" value="&lt;b&gt;Path 1: Topology Attn&lt;/b&gt;&lt;br&gt;&lt;br&gt;neighbors = G_LE-adj nodes&lt;br&gt;(per-window, static)&lt;br&gt;multi-head Attn + inactive mask&lt;br&gt;↓ h_topo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1025" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-11" value="&lt;b&gt;Path 2: Functional Attn&lt;/b&gt;&lt;br&gt;&lt;br&gt;neighbors = top-k cosine on z_func&lt;br&gt;(dynamic per forward)&lt;br&gt;multi-head Attn + inactive mask&lt;br&gt;↓ h_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1025" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-12" value="&lt;b&gt;Fusion:&lt;/b&gt; concat([h_station; h_topo; h_func]) → MLP (96→64→32) + LayerNorm → &lt;b&gt;h_ctx (32-d)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9d7a8;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1210" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-13" value="&lt;b&gt;m05 Decoder&lt;/b&gt;&lt;br&gt;Low-rank bilinear(h_ctx[o], h_ctx[d])&lt;br&gt;× distance gate (2·σ(MLP(dist)))&lt;br&gt;→ scaled softplus (τ=5, ε=1e-4) → μ̂_OD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1360" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-14" value="&lt;b&gt;μ̂_OD&lt;/b&gt;&lt;br&gt;predicted OD flow" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1530" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-15" value="&lt;b&gt;CONTRIBUTION 3 — Topology-Anchored Evaluation Protocol (applied to μ̂)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;fontSize=13;spacingTop=8;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1650" width="840" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-16" value="&lt;b&gt;Event-driven Windows {W_k}&lt;/b&gt;&lt;br&gt;&lt;br&gt;anchored on expansion events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1720" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-17" value="&lt;b&gt;Topology-observable&lt;br&gt;3-Regime Taxonomy&lt;/b&gt;&lt;br&gt;&lt;br&gt;Stable / Topology-Shift / Cold-Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1720" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-18" value="&lt;b&gt;4-path Leakage&lt;br&gt;Diagnostic Checklist&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1720" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-1" target="82Dsms7V7bGpNubbrD2n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-1" target="82Dsms7V7bGpNubbrD2n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-21" value="z_func (init new station)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-3" target="82Dsms7V7bGpNubbrD2n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-22" value="z_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-3" target="82Dsms7V7bGpNubbrD2n-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="365" />
+              <mxPoint x="90" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-4" target="82Dsms7V7bGpNubbrD2n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-5" target="82Dsms7V7bGpNubbrD2n-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-25" value="writeback (no grad)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;dashed=1;exitX=1;exitY=0.5;entryX=1;entryY=1;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-6" target="82Dsms7V7bGpNubbrD2n-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="645" />
+              <mxPoint x="900" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-26" value="h_v_time" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-5" target="82Dsms7V7bGpNubbrD2n-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-27" value="h_v_space" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-7" target="82Dsms7V7bGpNubbrD2n-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-28" value="h_station" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-8" target="82Dsms7V7bGpNubbrD2n-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-29" value="h_station" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-8" target="82Dsms7V7bGpNubbrD2n-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-30" value="h_topo" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-10" target="82Dsms7V7bGpNubbrD2n-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-31" value="h_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-11" target="82Dsms7V7bGpNubbrD2n-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-32" value="h_ctx[o], h_ctx[d]" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-12" target="82Dsms7V7bGpNubbrD2n-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-13" target="82Dsms7V7bGpNubbrD2n-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82Dsms7V7bGpNubbrD2n-34" value="evaluate μ̂" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=10;endArrow=block;dashed=1;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-14" target="82Dsms7V7bGpNubbrD2n-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
