@@ -295,7 +295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-110" value="&lt;b&gt;Gated Decoder&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="2910" width="490" height="420" as="geometry" />
+          <mxGeometry x="1430" y="2800" width="520" height="530" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-111" value="&lt;b&gt;per-OD pair (o, d)&lt;/b&gt;&lt;br&gt;h_ctx[o], h_ctx[d]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1490" y="3065" width="180" height="100" as="geometry" />
@@ -399,12 +399,6 @@
               <mxPoint x="985" y="3015" />
               <mxPoint x="725" y="3015" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="46HkaiUQZPzAVKPz_1wA-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="3250" as="sourcePoint" />
-            <mxPoint x="900" y="3200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-146" value="h_station" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;fontSize=10;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-138">
