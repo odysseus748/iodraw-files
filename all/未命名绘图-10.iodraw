@@ -365,9 +365,6 @@
         <mxCell id="46HkaiUQZPzAVKPz_1wA-120" value="h_ctx" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;fontSize=10;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-104" target="46HkaiUQZPzAVKPz_1wA-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="46HkaiUQZPzAVKPz_1wA-122" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAKUAAADzAQMAAADdMkRzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURTMzM////yMof8cAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAuSURBVFjD7cgxAQAABAAwTfRvoRkBHA7vdi7iLXsra6211lprrbXWWmutPfdtABVJVOtBTkx8AAAAAElFTkSuQmCC;" vertex="1" parent="1">
-          <mxGeometry x="210" y="3160" width="165" height="243" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
