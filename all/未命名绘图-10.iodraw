@@ -244,10 +244,10 @@
           <mxGeometry x="80" y="2830" width="190" height="370" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-87" value="Functional features (25-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="100" y="3045" width="150" height="50" as="geometry" />
+          <mxGeometry x="100" y="2880" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-88" value="G_LE graph" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="100" y="3100" width="150" height="40" as="geometry" />
+          <mxGeometry x="100" y="3015" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-89" value="Station ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="100" y="3150" width="150" height="40" as="geometry" />
