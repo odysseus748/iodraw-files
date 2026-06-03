@@ -265,7 +265,7 @@
           <mxGeometry x="675" y="3580" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-104" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;concat([h_station;&lt;br&gt;h_topo; h_func])&lt;br&gt;MLP (96-64-32) + LN&lt;br&gt;-&amp;gt; h_ctx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b9b6;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="3495" width="140" height="110" as="geometry" />
+          <mxGeometry x="1060" y="3520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-101" target="46HkaiUQZPzAVKPz_1wA-102">
           <mxGeometry relative="1" as="geometry" />
