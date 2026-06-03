@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Yl2Pq_X8RrqOWBWR1b-l">
-    <mxGraphModel dx="1827" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,11 +394,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-143" value="Hot-Swap writeback (end of epoch, no grad)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-137" target="46HkaiUQZPzAVKPz_1wA-136">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0012" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="985" y="3015" />
               <mxPoint x="725" y="3015" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-146" value="h_station" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;fontSize=10;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-138">
