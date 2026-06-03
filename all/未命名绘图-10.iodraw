@@ -253,7 +253,7 @@
           <mxGeometry x="99.99999999999999" y="3135" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-100" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3370" width="920" height="400" as="geometry" />
+          <mxGeometry x="380" y="3370" width="840" height="400" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-101" value="h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="395" y="3530" width="110" height="70" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="670" y="3420" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-103" value="&lt;b&gt;Functional Attn&lt;/b&gt;&lt;br&gt;neighbors: top-k cosine on z_func&lt;br&gt;(dynamic) + inactive mask&lt;br&gt;-&amp;gt; h_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="750" y="3605" width="230" height="100" as="geometry" />
+          <mxGeometry x="675" y="3600" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-104" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;concat([h_station;&lt;br&gt;h_topo; h_func])&lt;br&gt;MLP (96-64-32) + LN&lt;br&gt;-&amp;gt; h_ctx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b9b6;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1050" y="3495" width="140" height="110" as="geometry" />
