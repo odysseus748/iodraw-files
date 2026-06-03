@@ -259,7 +259,7 @@
           <mxGeometry x="670" y="3515" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-102" value="&lt;b&gt;Topology Attn&lt;/b&gt;&lt;br&gt;neighbors: G_LE adj (static/W)&lt;br&gt;multi-head + inactive mask&lt;br&gt;-&amp;gt; h_topo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="820" y="3390" width="240" height="100" as="geometry" />
+          <mxGeometry x="820" y="3415" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-103" value="&lt;b&gt;Functional Attn&lt;/b&gt;&lt;br&gt;neighbors: top-k cosine on z_func&lt;br&gt;(dynamic) + inactive mask&lt;br&gt;-&amp;gt; h_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="820" y="3610" width="240" height="100" as="geometry" />
@@ -320,9 +320,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1245" y="3307" />
-              <mxPoint x="680" y="3307" />
-              <mxPoint x="680" y="3330" />
-              <mxPoint x="670" y="3330" />
+              <mxPoint x="670" y="3307" />
             </Array>
             <mxPoint x="540" y="3307.5" as="sourcePoint" />
           </mxGeometry>
