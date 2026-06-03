@@ -253,7 +253,7 @@
           <mxGeometry x="99.99999999999999" y="3135" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-90" value="&lt;b&gt;Station Representation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2830" width="240" height="560" as="geometry" />
+          <mxGeometry x="330" y="2825" width="240" height="560" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-91" value="&lt;b&gt;FunctionalEncoder&lt;/b&gt;&lt;br&gt;3-layer MLP + res&lt;br&gt;25-d -&amp;gt; z_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="360" y="2880" width="180" height="90" as="geometry" />
@@ -364,6 +364,41 @@
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-120" value="h_ctx" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;fontSize=10;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-104" target="46HkaiUQZPzAVKPz_1wA-111">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-124" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2920" width="600" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-125" value="h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="660" y="3085" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-126" value="&lt;b&gt;Topology Attn&lt;/b&gt;&lt;br&gt;neighbors: G_LE adj (static/W)&lt;br&gt;multi-head + inactive mask&lt;br&gt;-&amp;gt; h_topo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2960" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-127" value="&lt;b&gt;Functional Attn&lt;/b&gt;&lt;br&gt;neighbors: top-k cosine on z_func&lt;br&gt;(dynamic) + inactive mask&lt;br&gt;-&amp;gt; h_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="810" y="3180" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-128" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;concat([h_station;&lt;br&gt;h_topo; h_func])&lt;br&gt;MLP (96-64-32) + LN&lt;br&gt;-&amp;gt; h_ctx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b9b6;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="3065" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-125" target="46HkaiUQZPzAVKPz_1wA-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-130" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-125" target="46HkaiUQZPzAVKPz_1wA-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-131" value="h_topo" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-126" target="46HkaiUQZPzAVKPz_1wA-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-132" value="h_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-127" target="46HkaiUQZPzAVKPz_1wA-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-133" value="h_station (skip)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-125" target="46HkaiUQZPzAVKPz_1wA-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="3300" />
+              <mxPoint x="1150" y="3300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
