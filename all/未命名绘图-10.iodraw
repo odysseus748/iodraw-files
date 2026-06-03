@@ -252,9 +252,6 @@
         <mxCell id="46HkaiUQZPzAVKPz_1wA-89" value="Station ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="99.99999999999999" y="3135" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="46HkaiUQZPzAVKPz_1wA-90" value="&lt;b&gt;Station Representation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2825" width="240" height="560" as="geometry" />
-        </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-91" value="&lt;b&gt;FunctionalEncoder&lt;/b&gt;&lt;br&gt;3-layer MLP + res&lt;br&gt;25-d -&amp;gt; z_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="360" y="2880" width="180" height="90" as="geometry" />
         </mxCell>
