@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="Phase3ModelV3" id="6Jrkfm9b0WXhR2dWEZdm">
-    <mxGraphModel dx="1955" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="360" y="40" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-2" value="&lt;b&gt;CONTRIBUTION 1 — Dual-Path Station Representation with Cross-Epoch Hot-Swap&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=13;spacingTop=8;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="840" height="670" as="geometry" />
+          <mxGeometry x="50" y="250" width="840" height="670" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-3" value="&lt;b&gt;m02.5 FunctionalEncoder&lt;/b&gt;&lt;br&gt;25-d → z_func (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="220" height="90" as="geometry" />
