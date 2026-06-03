@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Yl2Pq_X8RrqOWBWR1b-l">
-    <mxGraphModel dx="2632" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,6 +397,46 @@
             <Array as="points">
               <mxPoint x="-565" y="2740" />
               <mxPoint x="-130" y="2740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-134" value="&lt;b&gt;Station Representation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1690" width="1080" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-135" value="&lt;b&gt;FunctionalEncoder&lt;/b&gt;&lt;br&gt;3-layer MLP + res&lt;br&gt;25-d -&amp;gt; z_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1780" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-136" value="&lt;b&gt;TemporalEncoder&lt;/b&gt;&lt;br&gt;station_emb (existing)&lt;br&gt;NewStationEmbedder (new)&lt;br&gt;-&amp;gt; h_v_time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1780" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-137" value="&lt;b&gt;SpatialEncoder&lt;/b&gt;&lt;br&gt;3-layer GraphSAGE on G_LE&lt;br&gt;[h_v_time; z_func] -&amp;gt; h_v_space" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1780" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-138" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;[h_v_time; h_v_space; z_func]&lt;br&gt;Linear-GELU-Linear-LN&lt;br&gt;-&amp;gt; h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9d7a8;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1780" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-139" value="z_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-135" target="46HkaiUQZPzAVKPz_1wA-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-140" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-136" target="46HkaiUQZPzAVKPz_1wA-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-141" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-137" target="46HkaiUQZPzAVKPz_1wA-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-142" value="z_func (bypass)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=0;entryX=0.5;entryY=0;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-135" target="46HkaiUQZPzAVKPz_1wA-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="1750" />
+              <mxPoint x="1285" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46HkaiUQZPzAVKPz_1wA-143" value="Hot-Swap writeback (end of epoch, no grad)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-137" target="46HkaiUQZPzAVKPz_1wA-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1025" y="1920" />
+              <mxPoint x="765" y="1920" />
             </Array>
           </mxGeometry>
         </mxCell>
