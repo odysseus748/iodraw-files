@@ -364,19 +364,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-134" value="&lt;b&gt;Station Representation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2780" width="1020" height="270" as="geometry" />
+          <mxGeometry x="360" y="2790" width="1020" height="270" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-135" value="&lt;b&gt;FunctionalEncoder&lt;/b&gt;&lt;br&gt;3-layer MLP + res&lt;br&gt;25-d -&amp;gt; z_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2880" width="190" height="70" as="geometry" />
+          <mxGeometry x="370" y="2890" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-136" value="&lt;b&gt;TemporalEncoder&lt;/b&gt;&lt;br&gt;station_emb (existing)&lt;br&gt;NewStationEmbedder (new)&lt;br&gt;-&amp;gt; h_v_time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2880" width="170" height="70" as="geometry" />
+          <mxGeometry x="640" y="2890" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-137" value="&lt;b&gt;SpatialEncoder&lt;/b&gt;&lt;br&gt;3-layer GraphSAGE on G_LE&lt;br&gt;[h_v_time; z_func] -&amp;gt; h_v_space" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="920" y="2880" width="190" height="70" as="geometry" />
+          <mxGeometry x="890" y="2890" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-138" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;[h_v_time; h_v_space; z_func]&lt;br&gt;Linear-GELU-Linear-LN&lt;br&gt;-&amp;gt; h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9d7a8;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="2865" width="210" height="100" as="geometry" />
+          <mxGeometry x="1160" y="2890" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-139" value="z_func" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-135" target="46HkaiUQZPzAVKPz_1wA-136">
           <mxGeometry relative="1" as="geometry" />
@@ -390,16 +390,16 @@
         <mxCell id="46HkaiUQZPzAVKPz_1wA-142" value="z_func (bypass)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=0;entryX=0.5;entryY=0;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-135" target="46HkaiUQZPzAVKPz_1wA-138">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="495" y="2835" />
-              <mxPoint x="1275" y="2835" />
+              <mxPoint x="465" y="2845" />
+              <mxPoint x="1245" y="2845" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-143" value="Hot-Swap writeback (end of epoch, no grad)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-137" target="46HkaiUQZPzAVKPz_1wA-136">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1015" y="3005" />
-              <mxPoint x="755" y="3005" />
+              <mxPoint x="985" y="3015" />
+              <mxPoint x="725" y="3015" />
             </Array>
           </mxGeometry>
         </mxCell>
