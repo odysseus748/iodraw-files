@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="Phase3ModelV3" id="6Jrkfm9b0WXhR2dWEZdm">
-    <mxGraphModel dx="2346" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2503" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,126 +117,126 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-35" value="&lt;b&gt;Data Input&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontSize=13;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="180" height="470" as="geometry" />
+          <mxGeometry x="-590" y="-790" width="180" height="470" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-36" value="Functional feat.&lt;br&gt;(POI + pop, 25-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="35" y="115" width="150" height="65" as="geometry" />
+          <mxGeometry x="-575" y="-745" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-37" value="G_LE topology graph&lt;br&gt;(per window)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="35" y="200" width="150" height="65" as="geometry" />
+          <mxGeometry x="-575" y="-660" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-38" value="Station ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="35" y="285" width="150" height="55" as="geometry" />
+          <mxGeometry x="-575" y="-575" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-39" value="Distance feat." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="35" y="360" width="150" height="55" as="geometry" />
+          <mxGeometry x="-575" y="-500" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-40" value="&lt;b&gt;CONTRIBUTION 1 — Dual-Path Station Representation (+ Cross-Epoch Hot-Swap)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=12;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="240" y="50" width="520" height="490" as="geometry" />
+          <mxGeometry x="-370" y="-810" width="520" height="490" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-41" value="&lt;b&gt;m01 TemporalEncoder&lt;/b&gt;&lt;br&gt;station_emb lookup (existing)&lt;br&gt;NewStationEmb: z_func→emb (new)&lt;br&gt;→ &lt;b&gt;h_v_time&lt;/b&gt; (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="270" y="110" width="230" height="115" as="geometry" />
+          <mxGeometry x="-340" y="-750" width="230" height="115" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-42" value="&lt;b&gt;m02.5 FunctionalEncoder&lt;/b&gt;&lt;br&gt;25-d → &lt;b&gt;z_func&lt;/b&gt; (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="270" y="250" width="230" height="65" as="geometry" />
+          <mxGeometry x="-340" y="-610" width="230" height="65" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-43" value="&lt;b&gt;m02 SpatialEncoder (GraphSAGE)&lt;/b&gt;&lt;br&gt;3-layer SAGE on G_LE&lt;br&gt;→ &lt;b&gt;h_v_space&lt;/b&gt; (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="270" y="335" width="230" height="90" as="geometry" />
+          <mxGeometry x="-340" y="-525" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-44" value="&lt;b&gt;fuse&lt;/b&gt;&lt;br&gt;[h_v_time; h_v_space; z_func]&lt;br&gt;→ LayerNorm&lt;br&gt;→ &lt;b&gt;h_station&lt;/b&gt; (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9d7a8;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="560" y="205" width="170" height="130" as="geometry" />
+          <mxGeometry x="-50" y="-655" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-45" value="Hot-Swap (Alg.1): end of each epoch,  station_emb[s_new] ← NewStationEmbedder(z_func)  (writeback, no gradient)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#82b366;fontSize=9;fontStyle=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="450" width="460" height="55" as="geometry" />
+          <mxGeometry x="-340" y="-410" width="460" height="55" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-46" value="&lt;b&gt;CONTRIBUTION 2 — Station-Level Dual-Neighborhood Local Attention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=12;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="800" y="50" width="420" height="490" as="geometry" />
+          <mxGeometry x="190" y="-810" width="420" height="490" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-47" value="&lt;b&gt;Path 1: Topology Attn&lt;/b&gt;&lt;br&gt;neighbors = G_LE-adj nodes (per-window, static)&lt;br&gt;multi-head + inactive mask → &lt;b&gt;h_topo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="830" y="110" width="360" height="105" as="geometry" />
+          <mxGeometry x="220" y="-750" width="360" height="105" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-48" value="&lt;b&gt;Path 2: Functional Attn&lt;/b&gt;&lt;br&gt;neighbors = top-k cosine on z_func (dynamic)&lt;br&gt;multi-head + inactive mask → &lt;b&gt;h_func&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="830" y="240" width="360" height="105" as="geometry" />
+          <mxGeometry x="220" y="-620" width="360" height="105" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-49" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;concat([h_station; h_topo; h_func])&lt;br&gt;→ MLP (96→64→32) + LayerNorm&lt;br&gt;→ &lt;b&gt;h_ctx&lt;/b&gt; (32-d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b9b6;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="830" y="375" width="360" height="110" as="geometry" />
+          <mxGeometry x="220" y="-485" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-50" value="&lt;b&gt;Gated Decoder (m05)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=12;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="50" width="360" height="490" as="geometry" />
+          <mxGeometry x="650" y="-810" width="360" height="490" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-51" value="Low-rank bilinear&lt;br&gt;(h_ctx[o], h_ctx[d])" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="110" width="300" height="65" as="geometry" />
+          <mxGeometry x="680" y="-750" width="300" height="65" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-52" value="Distance gate&lt;br&gt;2·σ(MLP(dist))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="200" width="300" height="60" as="geometry" />
+          <mxGeometry x="680" y="-660" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-53" value="×" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="290" width="40" height="40" as="geometry" />
+          <mxGeometry x="810" y="-570" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-54" value="scaled softplus&lt;br&gt;(τ=5, ε=1e-4)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="350" width="300" height="60" as="geometry" />
+          <mxGeometry x="680" y="-510" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-55" value="&lt;b&gt;μ̂_OD&lt;/b&gt;&lt;br&gt;(Output)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="440" width="170" height="60" as="geometry" />
+          <mxGeometry x="750" y="-420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-56" value="&lt;b&gt;CONTRIBUTION 3 — Topology-Anchored Evaluation Protocol (applied to μ̂)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;fontSize=12;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="20" y="585" width="1600" height="195" as="geometry" />
+          <mxGeometry x="-590" y="-275" width="1600" height="195" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-57" value="&lt;b&gt;Event-driven Windows {W_k}&lt;/b&gt;&lt;br&gt;&lt;br&gt;anchored on expansion events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="120" y="650" width="400" height="100" as="geometry" />
+          <mxGeometry x="-490" y="-210" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-58" value="&lt;b&gt;Topology-observable 3-Regime Taxonomy&lt;/b&gt;&lt;br&gt;&lt;br&gt;Stable / Topology-Shift / Cold-Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="620" y="650" width="400" height="100" as="geometry" />
+          <mxGeometry x="10" y="-210" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-59" value="&lt;b&gt;4-path Leakage Diagnostic Checklist&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="650" width="400" height="100" as="geometry" />
+          <mxGeometry x="510" y="-210" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-36" target="82Dsms7V7bGpNubbrD2n-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="147" />
-              <mxPoint x="215" y="282" />
+              <mxPoint x="-395" y="-713" />
+              <mxPoint x="-395" y="-578" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-37" target="82Dsms7V7bGpNubbrD2n-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="225" y="232" />
-              <mxPoint x="225" y="380" />
+              <mxPoint x="-385" y="-628" />
+              <mxPoint x="-385" y="-480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-38" target="82Dsms7V7bGpNubbrD2n-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="312" />
-              <mxPoint x="220" y="167" />
+              <mxPoint x="-390" y="-548" />
+              <mxPoint x="-390" y="-693" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-63" value="dist" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-39" target="82Dsms7V7bGpNubbrD2n-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="387" />
-              <mxPoint x="210" y="560" />
-              <mxPoint x="1340" y="560" />
-              <mxPoint x="1340" y="290" />
+              <mxPoint x="-400" y="-473" />
+              <mxPoint x="-400" y="-300" />
+              <mxPoint x="730" y="-300" />
+              <mxPoint x="730" y="-570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-64" value="z_func (init new st.)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-42" target="82Dsms7V7bGpNubbrD2n-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="240" />
+              <mxPoint x="-150" y="-620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-65" value="h_v_time" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;exitX=0;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-41" target="82Dsms7V7bGpNubbrD2n-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="255" y="167" />
-              <mxPoint x="255" y="380" />
+              <mxPoint x="-355" y="-693" />
+              <mxPoint x="-355" y="-480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -252,7 +252,7 @@
         <mxCell id="82Dsms7V7bGpNubbrD2n-69" value="writeback (no grad)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=0;entryX=1;entryY=0.75;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-45" target="82Dsms7V7bGpNubbrD2n-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="525" y="200" />
+              <mxPoint x="-85" y="-660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -265,8 +265,8 @@
         <mxCell id="82Dsms7V7bGpNubbrD2n-72" value="h_station (skip)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0;entryY=0.5;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-44" target="82Dsms7V7bGpNubbrD2n-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="645" y="430" />
-              <mxPoint x="785" y="430" />
+              <mxPoint x="35" y="-430" />
+              <mxPoint x="175" y="-430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -279,8 +279,8 @@
         <mxCell id="82Dsms7V7bGpNubbrD2n-75" value="h_ctx[o], h_ctx[d]" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-49" target="82Dsms7V7bGpNubbrD2n-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1240" y="430" />
-              <mxPoint x="1240" y="142" />
+              <mxPoint x="630" y="-430" />
+              <mxPoint x="630" y="-718" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -290,7 +290,7 @@
         <mxCell id="82Dsms7V7bGpNubbrD2n-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-52" target="82Dsms7V7bGpNubbrD2n-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1340" y="310" />
+              <mxPoint x="730" y="-550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -303,7 +303,7 @@
         <mxCell id="82Dsms7V7bGpNubbrD2n-80" value="evaluate μ̂" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;" edge="1" parent="1" source="82Dsms7V7bGpNubbrD2n-55" target="82Dsms7V7bGpNubbrD2n-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1445" y="560" />
+              <mxPoint x="835" y="-300" />
             </Array>
           </mxGeometry>
         </mxCell>
