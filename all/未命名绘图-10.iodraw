@@ -253,7 +253,7 @@
           <mxGeometry x="99.99999999999999" y="3135" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-100" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="360" y="3100" width="840" height="330" as="geometry" />
+          <mxGeometry x="360" y="3100" width="1030" height="330" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-101" value="h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="375" y="3220" width="110" height="70" as="geometry" />
@@ -399,9 +399,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="465" y="2845" />
-              <mxPoint x="1210" y="2845" />
-              <mxPoint x="1210" y="2860" />
-              <mxPoint x="1205" y="2860" />
+              <mxPoint x="1205" y="2845" />
             </Array>
           </mxGeometry>
         </mxCell>
