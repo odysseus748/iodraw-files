@@ -253,7 +253,7 @@
           <mxGeometry x="99.99999999999999" y="3135" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-90" value="&lt;b&gt;Station Representation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2825" width="240" height="560" as="geometry" />
+          <mxGeometry x="330" y="2825" width="870" height="560" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-91" value="&lt;b&gt;FunctionalEncoder&lt;/b&gt;&lt;br&gt;3-layer MLP + res&lt;br&gt;25-d -&amp;gt; z_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="360" y="2880" width="180" height="90" as="geometry" />
@@ -293,19 +293,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-100" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2930" width="600" height="400" as="geometry" />
+          <mxGeometry x="660" y="3370" width="600" height="400" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-101" value="h_station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="650" y="3075" width="110" height="70" as="geometry" />
+          <mxGeometry x="670" y="3515" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-102" value="&lt;b&gt;Topology Attn&lt;/b&gt;&lt;br&gt;neighbors: G_LE adj (static/W)&lt;br&gt;multi-head + inactive mask&lt;br&gt;-&amp;gt; h_topo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2950" width="240" height="100" as="geometry" />
+          <mxGeometry x="820" y="3390" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-103" value="&lt;b&gt;Functional Attn&lt;/b&gt;&lt;br&gt;neighbors: top-k cosine on z_func&lt;br&gt;(dynamic) + inactive mask&lt;br&gt;-&amp;gt; h_func" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3170" width="240" height="100" as="geometry" />
+          <mxGeometry x="820" y="3610" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-104" value="&lt;b&gt;Fusion&lt;/b&gt;&lt;br&gt;concat([h_station;&lt;br&gt;h_topo; h_func])&lt;br&gt;MLP (96-64-32) + LN&lt;br&gt;-&amp;gt; h_ctx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b9b6;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="3055" width="140" height="110" as="geometry" />
+          <mxGeometry x="1090" y="3495" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-101" target="46HkaiUQZPzAVKPz_1wA-102">
           <mxGeometry relative="1" as="geometry" />
@@ -322,8 +322,8 @@
         <mxCell id="46HkaiUQZPzAVKPz_1wA-109" value="h_station (skip)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-101" target="46HkaiUQZPzAVKPz_1wA-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="705" y="3290" />
-              <mxPoint x="1140" y="3290" />
+              <mxPoint x="725" y="3730" />
+              <mxPoint x="1160" y="3730" />
             </Array>
           </mxGeometry>
         </mxCell>
