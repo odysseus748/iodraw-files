@@ -304,10 +304,10 @@
           <mxGeometry x="1560" y="2923" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-113" value="&lt;b&gt;Decoder&lt;/b&gt;&lt;br&gt;low-rank bilinear&lt;br&gt;x distance gate&lt;br&gt;(2*sigmoid(MLP(dist)))&lt;br&gt;-&amp;gt; scaled softplus&lt;br&gt;(tau=5, eps=1e-4)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="3060" width="180" height="120" as="geometry" />
+          <mxGeometry x="1560" y="3060" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-114" value="&lt;b&gt;mu_OD&lt;/b&gt;&lt;br&gt;predicted flow" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="3280" width="160" height="70" as="geometry" />
+          <mxGeometry x="1550" y="3280" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46HkaiUQZPzAVKPz_1wA-115" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="46HkaiUQZPzAVKPz_1wA-111" target="46HkaiUQZPzAVKPz_1wA-113">
           <mxGeometry relative="1" as="geometry" />
