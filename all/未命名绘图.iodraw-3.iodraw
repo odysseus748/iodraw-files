@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hLPF0JxA8QR3mKpySBxN-1" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=3.33333;strokeColor=#A7C7E7;fillColor=#F7FAFC;strokeWidth=1;dashed=1;dashPattern=4 3;container=0;" vertex="1" parent="1">
-          <mxGeometry x="15.11811" y="204.09449" width="408.18898" height="181.41732" as="geometry" />
+          <mxGeometry x="15.12" y="230" width="408.19" height="155.51" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-2" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=3.90244;strokeColor=#A7C7E7;fillColor=#F7FAFC;strokeWidth=1;dashed=1;dashPattern=4 3;container=0;" vertex="1" parent="1">
           <mxGeometry x="15.11811" y="30.23622" width="408.18898" height="154.96063" as="geometry" />
@@ -155,7 +155,7 @@
           <mxGeometry x="326.92913" y="434.05606" width="86.92913" height="27.63591" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-51" value="&lt;div style=&quot;line-height:112%;&quot;&gt;b  Encoders and fusion&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#242C35;fontFamily=Times New Roman;fontSize=13.33333;fontStyle=1;align=left;verticalAlign=middle;spacing=0;overflow=visible;" vertex="1" parent="1">
-          <mxGeometry x="112.80622" y="219.99805" width="143.15792" height="15.6892" as="geometry" />
+          <mxGeometry x="18.836219999999997" y="209.99805" width="143.15792" height="15.6892" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-52" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Graph encoder&lt;br&gt;Message passing&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#242C35;fontFamily=Times New Roman;fontSize=12;fontStyle=0;align=center;verticalAlign=middle;spacing=0;overflow=visible;" vertex="1" parent="1">
           <mxGeometry x="32.12598" y="315.00094" width="109.6063" height="27.63591" as="geometry" />
