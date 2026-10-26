@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
   <diagram name="算法框架图（全部可编辑）" id="IVyBoLumUqL6L_A-6bxK">
-    <mxGraphModel dx="2232" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
           <mxGeometry x="396.66094000000004" y="375.05055" width="12.47244" height="6.04724" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-45" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Preference-conditioned Graph-GFlowNet&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#242C35;fontFamily=Times New Roman;fontSize=14.66667;fontStyle=1;align=center;verticalAlign=middle;spacing=0;overflow=visible;" vertex="1" parent="1">
-          <mxGeometry x="15.11811" y="2.74734" width="536.69291" height="17.18249" as="geometry" />
+          <mxGeometry x="18.83811" y="-50.00266" width="536.69291" height="17.18249" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-46" value="&lt;div style=&quot;line-height:112%;&quot;&gt;a  Input representations&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#242C35;fontFamily=Times New Roman;fontSize=13.33333;fontStyle=1;align=left;verticalAlign=middle;spacing=0;overflow=visible;" vertex="1" parent="1">
           <mxGeometry x="30.23622" y="489.16309" width="155.69121" height="15.6892" as="geometry" />
