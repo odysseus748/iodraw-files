@@ -149,7 +149,7 @@
           <mxGeometry x="43.64811" y="-17.00266" width="536.69291" height="17.18249" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-46" value="&lt;div style=&quot;line-height:112%;&quot;&gt;&amp;nbsp;Input representations&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#242C35;fontFamily=Times New Roman;fontSize=13.33333;fontStyle=1;align=left;verticalAlign=middle;spacing=0;overflow=visible;" vertex="1" parent="1">
-          <mxGeometry x="138.80622" y="430.00309000000004" width="155.69121" height="15.6892" as="geometry" />
+          <mxGeometry x="150.44621999999998" y="430.00309000000004" width="155.69121" height="15.6892" as="geometry" />
         </mxCell>
         <mxCell id="hLPF0JxA8QR3mKpySBxN-47" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Candidate graph&lt;br&gt;G = (V, E)&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#242C35;fontFamily=Times New Roman;fontSize=12;fontStyle=0;align=center;verticalAlign=middle;spacing=0;overflow=visible;" vertex="1" parent="1">
           <mxGeometry x="28.345979999999997" y="381.91605999999996" width="86.92913" height="27.63591" as="geometry" />
