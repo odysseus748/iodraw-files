@@ -16,12 +16,6 @@
         <mxCell id="G094WBwbZAshSLBc4le5-622" value="Regular station" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=0.953196;fontFamily=Times New Roman;fontSize=15.58;fontColor=#218780;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-620">
           <mxGeometry x="14.877966" width="123.081356" height="30.159223" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-623" value="" style="shape=ellipse;fillColor=#218780;strokeColor=#218780;strokeWidth=0.953196;fontFamily=Times New Roman;fontSize=13.12;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-620">
-          <mxGeometry x="150.808475" y="11.652427" width="6.762712" height="6.854369" as="geometry" />
-        </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-624" value="transfer" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=0.953196;fontFamily=Times New Roman;fontSize=15.58;fontColor=#218780;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-620">
-          <mxGeometry x="162.981356" width="84.533898" height="30.159223" as="geometry" />
-        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-569" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=13.12;fontColor=#193247;fillColor=none;strokeColor=none;strokeWidth=0.680854;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-620">
           <mxGeometry x="212.00050800000008" y="-249.99941699999954" width="160" height="50" as="geometry" />
         </mxCell>
