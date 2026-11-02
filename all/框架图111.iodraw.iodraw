@@ -840,14 +840,6 @@
         <mxCell id="G094WBwbZAshSLBc4le5-247" value="Dynamic node state&#xa;10 attributes" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-243">
           <mxGeometry x="62" y="10" width="161" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-248" style="edgeStyle=none;rounded=0;strokeColor=#193247;strokeWidth=1.6;endArrow=block;endSize=6;endFill=1;dashed=0;dashPattern=5 4;exitX=0.7866666666666666;exitY=0.2048780487804878;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.11764705882352941;entryY=0.31724137931034485;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-249" target="G094WBwbZAshSLBc4le5-321">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="3215" />
-              <mxPoint x="490" y="3199" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-249" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=none;strokeColor=none;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="3173" width="225" height="205" as="geometry" />
         </mxCell>
@@ -1105,14 +1097,6 @@
             <Array as="points">
               <mxPoint x="747.5" y="3311" />
               <mxPoint x="625" y="3311" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-320" style="edgeStyle=none;rounded=0;strokeColor=#193247;strokeWidth=1.6;endArrow=block;endSize=6;endFill=1;dashed=0;dashPattern=5 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-321" target="G094WBwbZAshSLBc4le5-354">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="747.5" y="3311" />
-              <mxPoint x="870" y="3311" />
             </Array>
           </mxGeometry>
         </mxCell>
