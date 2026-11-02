@@ -125,7 +125,7 @@
           <mxGeometry x="292" y="1001" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-20" value="Mean/max pool&#xa;City vector g" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1000" width="144" height="57" as="geometry" />
+          <mxGeometry x="480" y="1000" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-21" value="to actor and critic" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=13;fontColor=#326e90;fillColor=none;strokeColor=none;strokeWidth=0;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="462" y="1060" width="150" height="18" as="geometry" />
