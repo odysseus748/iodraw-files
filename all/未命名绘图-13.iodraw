@@ -175,7 +175,7 @@
         <mxCell id="G094WBwbZAshSLBc4le5-34" value="On-policy rollouts&#xa;Actor + value + entropy loss" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#218780;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="592" y="1168" width="203" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-35" target="G094WBwbZAshSLBc4le5-36">
+        <mxCell id="G094WBwbZAshSLBc4le5-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#218780;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-35" target="G094WBwbZAshSLBc4le5-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-35" value="Top-16 unique feasible routes&#xa;Positive-advantage SIL loss" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#218780;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
