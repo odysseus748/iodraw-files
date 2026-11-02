@@ -73,7 +73,7 @@
         <mxCell id="G094WBwbZAshSLBc4le5-4" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#faf6f0;strokeColor=#ba702c;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="1127" width="519" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-5" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#eff7f5;strokeColor=#218780;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+        <mxCell id="G094WBwbZAshSLBc4le5-5" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#eff7f5;strokeColor=#218780;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;spacing=0;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="579" y="1127" width="476" height="165" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-6" value="Graph actor–critic for citywide metro project discovery" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=26;fontColor=#193247;fillColor=none;strokeColor=none;strokeWidth=0;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
