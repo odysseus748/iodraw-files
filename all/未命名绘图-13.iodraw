@@ -113,7 +113,7 @@
           <mxGeometry x="463" y="768" width="153" height="51" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-17" value="Feature fusion" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="366" y="839" width="177" height="38" as="geometry" />
+          <mxGeometry x="380" y="839" width="163" height="38" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-18" value="Two edge-aware Typed GAT layers&#xa;Relation-specific messages&#xa;Joint multi-head attention" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#e1edf3;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="292" y="895" width="321" height="76" as="geometry" />
