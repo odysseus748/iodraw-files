@@ -169,6 +169,9 @@
         <mxCell id="G094WBwbZAshSLBc4le5-33" value="Next state, legal actions and reward  r = Φ(P next) − Φ(P)" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=18;fontColor=#ba702c;fillColor=none;strokeColor=none;strokeWidth=0;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="42" y="1258" width="495" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="G094WBwbZAshSLBc4le5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#218780;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-34" target="G094WBwbZAshSLBc4le5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-34" value="On-policy rollouts&#xa;Actor + value + entropy loss" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#218780;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="592" y="1168" width="203" height="55" as="geometry" />
         </mxCell>
