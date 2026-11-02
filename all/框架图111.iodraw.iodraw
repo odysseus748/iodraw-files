@@ -2489,8 +2489,11 @@
         <mxCell id="G094WBwbZAshSLBc4le5-717" value="Feature fusion" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-705">
           <mxGeometry y="32" width="135" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-718" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.522;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-717" target="G094WBwbZAshSLBc4le5-529">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G094WBwbZAshSLBc4le5-718" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.522;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1859.45" y="1645.8" as="sourcePoint" />
+            <mxPoint x="1859.512" y="1660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
