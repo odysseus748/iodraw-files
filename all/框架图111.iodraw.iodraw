@@ -2711,7 +2711,7 @@
         <mxCell id="G094WBwbZAshSLBc4le5-865" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1320.5" width="201" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-847" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=default;strokeColor=#326e90;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;spacing=0;labelBorderColor=#326e90;textShadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="G094WBwbZAshSLBc4le5-847" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=default;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;labelBorderColor=#326e90;textShadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1250" width="225" height="85" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-848" value="" style="shape=rectangle;fillColor=#cbdde9;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-847">
