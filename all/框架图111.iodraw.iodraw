@@ -1819,9 +1819,6 @@
         <mxCell id="G094WBwbZAshSLBc4le5-501" value="E  A2C with online self-imitation" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=21;fontColor=#218780;fillColor=none;strokeColor=none;strokeWidth=0;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1984" y="1900" width="466" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-502" value="Static node features&#xa;21 attributes" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="1535" width="191" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-503" value="Dynamic node state&#xa;10 attributes" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1444" y="1613" width="191" height="65" as="geometry" />
         </mxCell>
