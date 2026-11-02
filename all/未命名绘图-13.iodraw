@@ -119,7 +119,7 @@
           <mxGeometry x="390" y="830" width="130" height="47" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-18" value="Two edge-aware Typed GAT layers&#xa;Relation-specific messages&#xa;Joint multi-head attention" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#e1edf3;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="292" y="895" width="321" height="76" as="geometry" />
+          <mxGeometry x="292" y="895" width="321" height="75" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-19" value="Node vectors hᵢ" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="292" y="1001" width="145" height="45" as="geometry" />
