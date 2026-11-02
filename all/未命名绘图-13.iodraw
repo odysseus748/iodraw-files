@@ -7,58 +7,8 @@
         <mxCell id="G094WBwbZAshSLBc4le5-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.477;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-4" target="G094WBwbZAshSLBc4le5-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-93" value="&lt;b&gt;Data Input&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="200" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-94" value="&lt;b&gt;Station Representation&lt;/b&gt;&lt;br&gt;Functional / Temporal / Spatial&lt;br&gt;+ Fusion (+ Hot-Swap)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="300" y="120" width="340" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-95" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;&lt;br&gt;Topology Attn / Functional Attn&lt;br&gt;+ Fusion" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="700" y="120" width="340" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-96" value="&lt;b&gt;Gated Decoder&lt;/b&gt;&lt;br&gt;per-OD pair (o, d)&lt;br&gt;bilinear × distance gate" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="120" width="300" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="82Dsms7V7bGpNubbrD2n-97" value="&lt;b&gt;μ̂_OD&lt;/b&gt;&lt;br&gt;predicted flow" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1460" y="220" width="190" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-93" target="82Dsms7V7bGpNubbrD2n-94" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-94" target="82Dsms7V7bGpNubbrD2n-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-100" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-95" target="82Dsms7V7bGpNubbrD2n-96" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-96" target="82Dsms7V7bGpNubbrD2n-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-105" value="&lt;b&gt;Station Representation&lt;/b&gt;&lt;br&gt;Functional / Temporal / Spatial&lt;br&gt;+ Fusion (+ Hot-Swap)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="300" y="120" width="340" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-106" value="&lt;b&gt;Local Contextual Attention&lt;/b&gt;&lt;br&gt;Topology Attn / Functional Attn&lt;br&gt;+ Fusion" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="700" y="120" width="340" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-107" value="&lt;b&gt;Gated Decoder&lt;/b&gt;&lt;br&gt;per-OD pair (o, d)&lt;br&gt;bilinear × distance gate" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 4;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=14;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="120" width="300" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-108" value="&lt;b&gt;μ̂_OD&lt;/b&gt;&lt;br&gt;predicted flow" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="220" width="190" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" target="82Dsms7V7bGpNubbrD2n-105" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-105" target="82Dsms7V7bGpNubbrD2n-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-106" target="82Dsms7V7bGpNubbrD2n-107" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82Dsms7V7bGpNubbrD2n-112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeWidth=2;" parent="1" source="82Dsms7V7bGpNubbrD2n-107" target="82Dsms7V7bGpNubbrD2n-108" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-1" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#f1f6f9;strokeColor=#326e90;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="721" width="220" height="353" as="geometry" />
