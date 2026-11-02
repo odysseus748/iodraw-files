@@ -243,14 +243,8 @@
         <mxCell id="G094WBwbZAshSLBc4le5-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6d8764;strokeColor=#218780;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-5" target="G094WBwbZAshSLBc4le5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="G094WBwbZAshSLBc4le5-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="870" as="sourcePoint" />
-            <mxPoint x="860" y="820" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="870" y="880" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="G094WBwbZAshSLBc4le5-80" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="840" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
