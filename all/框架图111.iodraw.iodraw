@@ -2051,11 +2051,8 @@
         <mxCell id="G094WBwbZAshSLBc4le5-552" value="Node vectors hᵢ" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1692" y="1768" width="145" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-553" value="Mean/max pool&#xa;City vector g" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1767" width="134" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-554" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=13.12;fontColor=#193247;fillColor=none;strokeColor=none;strokeWidth=0.680854;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="2072.9067800000003" y="1535.9805830000005" width="174.09321999999975" height="59.07941699999947" as="geometry" />
+          <mxGeometry x="2072.9067800000003" y="1535.9805830000005" width="179.0032199999996" height="65.58941699999946" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-555" value="" style="shape=rectangle;fillColor=#bad6d0;strokeColor=none;strokeWidth=0.953196;fontFamily=Times New Roman;fontSize=13.12;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-554">
           <mxGeometry x="12.849153" y="8.225243" width="5.410169" height="5.483495" as="geometry" />
@@ -2098,6 +2095,12 @@
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-568" value="hᵢ + 42 features&#xa;+ phase" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=0.953196;fontFamily=Times New Roman;fontSize=12.3;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-554">
           <mxGeometry x="41.928814" y="19.87767" width="111.584746" height="28.102913" as="geometry" />
+        </mxCell>
+        <mxCell id="G094WBwbZAshSLBc4le5-654" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#218780;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-554">
+          <mxGeometry x="0.0032199999996009865" y="1.5894169999994574" width="179" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="G094WBwbZAshSLBc4le5-553" value="Mean/max pool&#xa;City vector g" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1767" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-569" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=13.12;fontColor=#193247;fillColor=none;strokeColor=none;strokeWidth=0.680854;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="2282.550847" y="1535.9805830000005" width="155.542373" height="54.149515" as="geometry" />
@@ -2443,9 +2446,6 @@
             <mxPoint x="2069.525424" y="1521.5864080000001" as="sourcePoint" />
             <mxPoint x="2441.474576" y="1521.5864080000001" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-654" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#218780;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="1360" width="179" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
