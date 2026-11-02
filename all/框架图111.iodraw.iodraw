@@ -2678,9 +2678,6 @@
             <mxPoint x="44.26791277258567" y="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-780" value="Layer 1" style="text;html=0;whiteSpace=wrap;fillColor=none;strokeColor=none;fontSize=10;fontStyle=0;fontFamily=Times New Roman;fontColor=#193247;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-759">
-          <mxGeometry x="2.710280373831776" y="57" width="36.137071651090345" height="14" as="geometry" />
-        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-805" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.426;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G094WBwbZAshSLBc4le5-759">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="68.66043613707188" y="57" as="sourcePoint" />
