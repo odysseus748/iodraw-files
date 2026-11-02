@@ -1913,10 +1913,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-524" value="Static encoder" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="1689" y="1535" width="154" height="51" as="geometry" />
+          <mxGeometry x="1689" y="1535" width="154" height="45" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-525" value="Dynamic encoder" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="1863" y="1535" width="153" height="51" as="geometry" />
+          <mxGeometry x="1870" y="1535" width="146" height="45" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-526" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1790" y="1597" width="130" height="47" as="geometry" />
