@@ -125,7 +125,7 @@
           <mxGeometry x="292" y="1001" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-20" value="Mean/max pool&#xa;City vector g" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=16;fontColor=#193247;fillColor=#ffffff;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="464" y="989" width="150" height="68" as="geometry" />
+          <mxGeometry x="470" y="1000" width="144" height="57" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-21" value="to actor and critic" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=13;fontColor=#326e90;fillColor=none;strokeColor=none;strokeWidth=0;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="462" y="1060" width="150" height="18" as="geometry" />
@@ -191,9 +191,6 @@
           <mxGeometry x="596" y="1299" width="456" height="24" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-42" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#193247;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-1" target="G094WBwbZAshSLBc4le5-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G094WBwbZAshSLBc4le5-48" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#193247;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-18" target="G094WBwbZAshSLBc4le5-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-49" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#193247;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-2" target="G094WBwbZAshSLBc4le5-3">
