@@ -2693,6 +2693,9 @@
         <mxCell id="G094WBwbZAshSLBc4le5-839" value="Feature fusion" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="G094WBwbZAshSLBc4le5-827">
           <mxGeometry y="28.413793103448278" width="127.5925925925926" height="21.310344827586206" as="geometry" />
         </mxCell>
+        <mxCell id="G094WBwbZAshSLBc4le5-840" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-524" target="G094WBwbZAshSLBc4le5-839">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
