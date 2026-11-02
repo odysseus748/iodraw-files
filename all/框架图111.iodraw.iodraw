@@ -1915,6 +1915,9 @@
         <mxCell id="G094WBwbZAshSLBc4le5-524" value="Static encoder" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1681" y="1535" width="151" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="G094WBwbZAshSLBc4le5-841" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="G094WBwbZAshSLBc4le5-525" target="G094WBwbZAshSLBc4le5-827">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G094WBwbZAshSLBc4le5-525" value="Dynamic encoder" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#ffffff;strokeColor=#b8c5ce;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1870" y="1535" width="136" height="45" as="geometry" />
         </mxCell>
