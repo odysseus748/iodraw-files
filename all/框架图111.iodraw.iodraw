@@ -698,11 +698,6 @@
             <mxPoint x="972" y="1618.2800000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="图标增强示例，基于 框架图111.iodraw 制作。&#xa;在 ioDraw 打开 框架图111_图标增强版.iodraw 即可编辑；.drawio 是兼容副本。&#xa;新增图标全部由原生矢量节点和连线组成，分别位于 A 的城市图、B 的 Typed GAT、C 的 GRU 和 Critic MLP。&#xa;原有 20 条连接线的定义已逐项核对保留。原始文件未覆盖。&#xa;图标为概念示意，其中神经元、邻居节点数量不表示实际模型层宽或邻居数量；Critic 采用单输出节点对应标量 V(s)。&#xa;图标对象作为所属模块的子对象，移动模块时一起移动；可在 ioDraw 内逐项编辑。" link="图标增强示例，基于 框架图111.iodraw 制作。&#xa;在 ioDraw 打开 框架图111_图标增强版.iodraw 即可编辑；.drawio 是兼容副本。&#xa;新增图标全部由原生矢量节点和连线组成，分别位于 A 的城市图、B 的 Typed GAT、C 的 GRU 和 Critic MLP。&#xa;原有 20 条连接线的定义已逐项核对保留。原始文件未覆盖。&#xa;图标为概念示意，其中神经元、邻居节点数量不表示实际模型层宽或邻居数量；Critic 采用单输出节点对应标量 V(s)。&#xa;图标对象作为所属模块的子对象，移动模块时一起移动；可在 ioDraw 内逐项编辑。" id="G094WBwbZAshSLBc4le5-212">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="160" y="1420" width="560" height="140" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
