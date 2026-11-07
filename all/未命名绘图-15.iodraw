@@ -223,6 +223,9 @@
         <mxCell id="FTbm2gHtM0QylheIwHSA-61" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fillColor=#e1edf3;strokeColor=#326e90;strokeWidth=1;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="3682" y="2095" width="321" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="aPT2k2DGtqYvNWXll9r1-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FTbm2gHtM0QylheIwHSA-61" source="FTbm2gHtM0QylheIwHSA-62" target="FTbm2gHtM0QylheIwHSA-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FTbm2gHtM0QylheIwHSA-62" value="Two edge-aware Typed GAT layers&#xa;Relation-specific messages&#xa;Joint multi-head attention" style="text;html=0;whiteSpace=wrap;fillColor=none;strokeColor=none;fontSize=15;fontStyle=0;fontFamily=Times New Roman;fontColor=#193247;align=center;verticalAlign=middle;spacing=0;" parent="FTbm2gHtM0QylheIwHSA-61" vertex="1">
           <mxGeometry x="90" y="3" width="228" height="69" as="geometry" />
         </mxCell>
