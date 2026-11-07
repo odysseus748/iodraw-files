@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sQ5I7bBBGuIbZ80liDBV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="1393" width="1110" height="1110" as="geometry" />
+          <mxGeometry x="1380" y="1393" width="887" height="887" as="geometry" />
         </mxCell>
         <mxCell id="FTbm2gHtM0QylheIwHSA-1" value="" style="rounded=0;whiteSpace=wrap;html=0;fontFamily=Times New Roman;fontSize=14.76;fontColor=#193247;fillColor=none;strokeColor=none;strokeWidth=0.680854;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="2067.999492" y="1789.9994169999995" width="387.330508" height="49.98058300000048" as="geometry" />
@@ -1442,6 +1442,9 @@
         </mxCell>
         <mxCell id="aPT2k2DGtqYvNWXll9r1-189" value="Static node features&#xa;21 attributes" style="shape=rectangle;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=17;fontColor=#193247;fontStyle=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="aPT2k2DGtqYvNWXll9r1-172">
           <mxGeometry x="50.666666666666664" y="10.692857142857143" width="135.95555555555558" height="35.794285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="aPT2k2DGtqYvNWXll9r1-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQ5I7bBBGuIbZ80liDBV-1" target="sQ5I7bBBGuIbZ80liDBV-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
