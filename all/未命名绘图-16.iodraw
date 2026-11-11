@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_XoQCc2Btxm4CQvciApk-332" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=8;strokeColor=#DADDE3;fillColor=#F7FAFC;strokeWidth=1.1;dashed=1;dashPattern=8 5;container=0;locked=0;" vertex="1" parent="1">
-          <mxGeometry x="3674.85" y="3484.4" width="413.31" height="185.6" as="geometry" />
+          <mxGeometry x="3798" y="3780" width="413.31" height="185.6" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-432" value="" style="shape=rectangle;html=1;rounded=1;arcSize=8;whiteSpace=wrap;fillColor=#EFF5FB;strokeColor=#5878A6;strokeWidth=1;dashed=0;dashPattern=4 3;resizable=1;movable=1;editable=1;rotatable=1;container=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="3710" y="3563" width="140" height="70" as="geometry" />
@@ -3138,17 +3138,6 @@
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-398" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Learnable embedding&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=0;fontColor=#40536D;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3889" y="3718" width="176" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="_XoQCc2Btxm4CQvciApk-399" value="" style="edgeStyle=none;html=1;rounded=0;strokeColor=#A7C7E7;strokeWidth=1.55;startArrow=none;endArrow=block;endFill=1;endSize=4.5;dashed=0;dashPattern=4 3;editable=1;movable=1;resizable=1;entryX=1;entryY=0.22580645161290322;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_XoQCc2Btxm4CQvciApk-333">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4040" y="3682" as="sourcePoint" />
-            <mxPoint x="3961" y="3518" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4040" y="3669" />
-              <mxPoint x="4081" y="3669" />
-              <mxPoint x="4081" y="3518" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-400" value="" style="shape=rectangle;html=1;rounded=0;arcSize=8;whiteSpace=wrap;fillColor=#EBF5F2;strokeColor=#F7FAFC;strokeWidth=.3;dashed=0;dashPattern=4 3;resizable=1;movable=1;editable=1;rotatable=1;container=0;shadow=0;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3892" y="3586.5" width="7" height="6.5" as="geometry" />
