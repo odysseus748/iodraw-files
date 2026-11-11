@@ -3605,7 +3605,7 @@
         <mxCell id="_XoQCc2Btxm4CQvciApk-608" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XoQCc2Btxm4CQvciApk-609" target="_XoQCc2Btxm4CQvciApk-605">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_XoQCc2Btxm4CQvciApk-609" value="" style="shape=rectangle;html=1;rounded=1;arcSize=10;whiteSpace=wrap;strokeWidth=.65;dashed=0;dashPattern=4 3;resizable=1;movable=1;editable=1;rotatable=1;container=0;shadow=0;locked=0;fillColor=#edf7f4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_XoQCc2Btxm4CQvciApk-609" value="" style="shape=rectangle;html=1;rounded=1;arcSize=10;whiteSpace=wrap;strokeWidth=.65;dashed=0;dashPattern=4 3;resizable=1;movable=1;editable=1;rotatable=1;container=0;shadow=0;locked=0;fillColor=#edf7f4;strokeColor=#5878a6;" vertex="1" parent="1">
           <mxGeometry x="4480.35" y="3572.77" width="185" height="103" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-610" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Prefix encoders&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;fontStyle=1;fontColor=#25354C;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
