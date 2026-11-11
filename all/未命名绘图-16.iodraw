@@ -1466,8 +1466,8 @@
         <mxCell id="_XoQCc2Btxm4CQvciApk-1" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=3.33333;strokeColor=#A7C7E7;fillColor=#F7FAFC;strokeWidth=1;dashed=1;dashPattern=4 3;container=0;" vertex="1" parent="1">
           <mxGeometry x="2864.45" y="3659" width="413.31" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="_XoQCc2Btxm4CQvciApk-2" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=3.33333;strokeColor=#A7C7E7;fillColor=#F7FAFC;strokeWidth=1;dashed=1;dashPattern=4 3;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2860" y="3433.4" width="413.31" height="152.6" as="geometry" />
+        <mxCell id="_XoQCc2Btxm4CQvciApk-2" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=3.33333;strokeColor=#f8fafc;fillColor=#F7FAFC;strokeWidth=1;dashed=1;dashPattern=4 3;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="3458" width="413.31" height="152.6" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-3" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=3.90244;strokeColor=#A7C7E7;fillColor=#F7FAFC;strokeWidth=1;dashed=1;dashPattern=4 3;container=0;" vertex="1" parent="1">
           <mxGeometry x="2860" y="3267" width="413.31" height="214" as="geometry" />
@@ -2282,7 +2282,7 @@
           <mxGeometry x="3117.7" y="3429.7" width="6.6" height="6.6" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-193" value="" style="shape=rectangle;html=1;rounded=1;arcSize=8;whiteSpace=wrap;fillColor=#EFF5FB;strokeColor=#5878A6;strokeWidth=1;dashed=0;dashPattern=4 3;resizable=1;movable=1;editable=1;rotatable=1;container=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="2876" y="3590.25" width="208" height="87" as="geometry" />
+          <mxGeometry x="2759.24" y="3603" width="208" height="87" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-194" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Shared graph encoder&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;fontStyle=1;fontColor=#242C35;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;" vertex="1" parent="1">
           <mxGeometry x="2882" y="3546" width="196" height="18" as="geometry" />
