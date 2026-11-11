@@ -3226,7 +3226,7 @@
         <mxCell id="_XoQCc2Btxm4CQvciApk-430" value="" style="shape=singleArrow;html=1;rounded=0;arcSize=8;whiteSpace=wrap;fillColor=#F7FAFC;strokeColor=#5878A6;strokeWidth=1.6;dashed=0;dashPattern=4 3;resizable=1;movable=1;editable=1;rotatable=1;container=0;shadow=0;direction=east;arrowWidth=.45;arrowSize=.32;locked=0;" vertex="1" parent="1">
           <mxGeometry x="4082" y="3352.16536" width="28.76378" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="_XoQCc2Btxm4CQvciApk-433" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;sourcePerimeterSpacing=-4;strokeWidth=0;shape=flexArrow;" edge="1" parent="1">
+        <mxCell id="_XoQCc2Btxm4CQvciApk-433" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;sourcePerimeterSpacing=-4;strokeWidth=0;shape=flexArrow;startSize=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3624" y="3602" as="sourcePoint" />
             <mxPoint x="3670" y="3602" as="targetPoint" />
