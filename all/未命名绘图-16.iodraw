@@ -2841,10 +2841,12 @@
         <mxCell id="_XoQCc2Btxm4CQvciApk-396" value="&lt;div style=&quot;line-height:112%;&quot;&gt;eₚ&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=0;fontColor=#40536D;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
           <mxGeometry x="4027" y="3682" width="26" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="_XoQCc2Btxm4CQvciApk-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="_XoQCc2Btxm4CQvciApk-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XoQCc2Btxm4CQvciApk-397" target="_XoQCc2Btxm4CQvciApk-334">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4052.3500000000004" y="3705.9999999999995" as="sourcePoint" />
-            <mxPoint x="3930.8500000000004" y="3524.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4070" y="3705" />
+              <mxPoint x="4070" y="3524" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-397" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Preference condition&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;fontStyle=1;fontColor=#25354C;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
