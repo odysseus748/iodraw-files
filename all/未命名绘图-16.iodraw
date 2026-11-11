@@ -2909,13 +2909,13 @@
           <mxGeometry x="3966.36" y="3417" width="107" height="17" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-333" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=13.75;strokeColor=#A7C7E7;fillColor=#E7E9ED;strokeWidth=.65;dashed=0;dashPattern=4 3;container=0;locked=0;" vertex="1" parent="1">
-          <mxGeometry x="3796" y="3511" width="165" height="31" as="geometry" />
+          <mxGeometry x="3796" y="3511" width="144" height="31" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-435" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_XoQCc2Btxm4CQvciApk-334" target="_XoQCc2Btxm4CQvciApk-360">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-334" value="&lt;div style=&quot;line-height:112%;&quot;&gt;State fusion hₜ&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#25354C;fontFamily=Times New Roman;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=0;overflow=visible;locked=0;" vertex="1" parent="1">
-          <mxGeometry x="3797" y="3518.5" width="163" height="16" as="geometry" />
+          <mxGeometry x="3807" y="3518.5" width="143" height="16" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-336" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Representation and conditioning&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;fontColor=#25354C;align=left;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3680" y="3488" width="270" height="18" as="geometry" />
