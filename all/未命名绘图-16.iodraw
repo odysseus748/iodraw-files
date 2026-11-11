@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="scoyMSnS6i_fAf8Hyo_i">
-    <mxGraphModel dx="945" dy="75" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1031" dy="130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2616,12 +2616,6 @@
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-331" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Masked Softmax&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=0;fontColor=#40536D;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3994.71" y="2893" width="107" height="17" as="geometry" />
-        </mxCell>
-        <mxCell id="_XoQCc2Btxm4CQvciApk-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3873.4" y="3506" as="sourcePoint" />
-            <mxPoint x="3873.049441340782" y="3466.82" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-333" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=13.75;strokeColor=#A7C7E7;fillColor=#dadde3;strokeWidth=.65;dashed=0;dashPattern=4 3;container=0;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3813.25" y="3511" width="120" height="31" as="geometry" />
