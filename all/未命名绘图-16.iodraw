@@ -2626,10 +2626,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-333" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=13.75;strokeColor=#A7C7E7;fillColor=#dadde3;strokeWidth=.65;dashed=0;dashPattern=4 3;container=0;locked=0;" vertex="1" parent="1">
-          <mxGeometry x="3813.35" y="3520" width="120" height="26.23" as="geometry" />
+          <mxGeometry x="3813.0499999999997" y="3512.77" width="120" height="26.23" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-334" value="&lt;div style=&quot;line-height:112%;&quot;&gt;State fusion hₜ&lt;/div&gt;" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=text;strokeColor=none;fillColor=none;fontColor=#25354C;fontFamily=Times New Roman;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=0;overflow=visible;locked=0;" vertex="1" parent="1">
-          <mxGeometry x="3813.35" y="3522.73" width="120" height="16" as="geometry" />
+          <mxGeometry x="3813.0499999999997" y="3515.5" width="120" height="16" as="geometry" />
         </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-336" value="&lt;div style=&quot;line-height:112%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Representation and conditioning&lt;/font&gt;&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;fontColor=#25354C;align=left;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3680" y="3490" width="200" height="16" as="geometry" />
