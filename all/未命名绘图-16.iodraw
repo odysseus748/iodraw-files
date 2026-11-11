@@ -2617,6 +2617,9 @@
         <mxCell id="_XoQCc2Btxm4CQvciApk-331" value="&lt;div style=&quot;line-height:112%;&quot;&gt;Masked Softmax&lt;/div&gt;" style="shape=text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=0;fontColor=#40536D;align=center;verticalAlign=middle;spacing=0;overflow=visible;resizable=1;movable=1;editable=1;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3994.71" y="2893" width="107" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="_XoQCc2Btxm4CQvciApk-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_XoQCc2Btxm4CQvciApk-333" target="_XoQCc2Btxm4CQvciApk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_XoQCc2Btxm4CQvciApk-333" value="" style="html=1;whiteSpace=wrap;shadow=0;resizable=1;movable=1;editable=1;rotatable=1;shape=rectangle;rounded=1;arcSize=13.75;strokeColor=#A7C7E7;fillColor=#dadde3;strokeWidth=.65;dashed=0;dashPattern=4 3;container=0;locked=0;" vertex="1" parent="1">
           <mxGeometry x="3813.25" y="3511" width="120" height="31" as="geometry" />
         </mxCell>
